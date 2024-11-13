@@ -1,0 +1,352 @@
+{
+  "af": {
+      "name": "Afrikaans",
+      "translit": false,
+      "flag": "require('./assets/flags/za.png')"
+  },
+  "am": {
+      "name": "Amharic",
+      "translit": true,
+      "flag": "require('./assets/flags/et.png')"
+  },
+  "ar": {
+      "name": "Arabic",
+      "translit": true,
+      "flag": "require('./assets/flags/eg.png')"
+  },
+  "az": {
+      "name": "Azerbaijani",
+      "translit": false,
+      "flag": "require('./assets/flags/az.png')"
+  },
+  "eu": {
+      "name": "Basque",
+      "translit": false,
+      "flag": "require('./assets/flags/es.png')"
+  },
+  "bn": {
+      "name": "Bengali",
+      "translit": false,
+      "flag": "require('./assets/flags/bd.png')"
+  },
+  "bs": {
+      "name": "Bosnian",
+      "translit": false,
+      "flag": "require('./assets/flags/ba.png')"
+  },
+  "bg": {
+      "name": "Bulgarian",
+      "translit": false,
+      "flag": "require('./assets/flags/bg.png')"
+  },
+  "my": {
+      "name": "Burmese",
+      "translit": false,
+      "flag": "require('./assets/flags/mm.png')"
+  },
+  "ca": {
+      "name": "Catalan",
+      "translit": false,
+      "flag": "require('./assets/flags/ct.png')"
+  },
+  "yue": {
+      "name": "Chinese (Cantonese)",
+      "translit": true,
+      "flag": "require('./assets/flags/hk.png')"
+  },
+  "cmn": {
+      "name": "Chinese (Mandarin)",
+      "translit": true,
+      "flag": "require('./assets/flags/cn.png')"
+  },
+  "cs": {
+      "name": "Czech",
+      "translit": false,
+      "flag": "require('./assets/flags/cz.png')"
+  },
+  "da": {
+      "name": "Danish",
+      "translit": false,
+      "flag": "require('./assets/flags/dk.png')"
+  },
+  "nl": {
+      "name": "Dutch",
+      "translit": false,
+      "flag": "require('./assets/flags/nl.png')"
+  },
+  "et": {
+      "name": "Estonian",
+      "translit": false,
+      "flag": "require('./assets/flags/ee.png')"
+  },
+  "fil": {
+      "name": "Filipino",
+      "translit": false,
+      "flag": "require('./assets/flags/ph.png')"
+  },
+  "fi": {
+      "name": "Finnish",
+      "translit": false,
+      "flag": "require('./assets/flags/fi.png')"
+  },
+  "fr": {
+      "name": "French",
+      "translit": false,
+      "flag": "require('./assets/flags/fr.png')"
+  },
+  "de": {
+      "name": "German",
+      "translit": false,
+      "flag": "require('./assets/flags/de.png')"
+  },
+  "el": {
+      "name": "Greek",
+      "translit": true,
+      "flag": "require('./assets/flags/gr.png')"
+  },
+  "gu": {
+      "name": "Gujarati",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "he": {
+      "name": "Hebrew",
+      "translit": false,
+      "flag": "require('./assets/flags/il.png')"
+  },
+  "hi": {
+      "name": "Hindi",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "hu": {
+      "name": "Hungarian",
+      "translit": false,
+      "flag": "require('./assets/flags/hu.png')"
+  },
+  "is": {
+      "name": "Icelandic",
+      "translit": false,
+      "flag": "require('./assets/flags/is.png')"
+  },
+  "id": {
+      "name": "Indonesian",
+      "translit": false,
+      "flag": "require('./assets/flags/id.png')"
+  },
+  "it": {
+      "name": "Italian",
+      "translit": false,
+      "flag": "require('./assets/flags/it.png')"
+  },
+  "ja": {
+      "name": "Japanese",
+      "translit": true,
+      "flag": "require('./assets/flags/jp.png')"
+  },
+  "jv": {
+      "name": "Javanese",
+      "translit": false,
+      "flag": "require('./assets/flags/id.png')"
+  },
+  "kn": {
+      "name": "Kannada",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "kk": {
+      "name": "Kazakh",
+      "translit": false,
+      "flag": "require('./assets/flags/kz.png')"
+  },
+  "km": {
+      "name": "Khmer",
+      "translit": false,
+      "flag": "require('./assets/flags/kh.png')"
+  },
+  "ko": {
+      "name": "Korean",
+      "translit": false,
+      "flag": "require('./assets/flags/kr.png')"
+  },
+  "lo": {
+      "name": "Lao",
+      "translit": false,
+      "flag": "require('./assets/flags/la.png')"
+  },
+  "lv": {
+      "name": "Latvian",
+      "translit": false,
+      "flag": "require('./assets/flags/lv.png')"
+  },
+  "lt": {
+      "name": "Lithuanian",
+      "translit": false,
+      "flag": "require('./assets/flags/lt.png')"
+  },
+  "mk": {
+      "name": "Macedonian",
+      "translit": false,
+      "flag": "require('./assets/flags/mk.png')"
+  },
+  "ms": {
+      "name": "Malay",
+      "translit": false,
+      "flag": "require('./assets/flags/my.png')"
+  },
+  "ml": {
+      "name": "Malayalam",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "mt": {
+      "name": "Maltese",
+      "translit": false,
+      "flag": "require('./assets/flags/mt.png')"
+  },
+  "mr": {
+      "name": "Marathi",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "mn": {
+      "name": "Mongolian",
+      "translit": false,
+      "flag": "require('./assets/flags/mn.png')"
+  },
+  "ne": {
+      "name": "Nepali",
+      "translit": true,
+      "flag": "require('./assets/flags/np.png')"
+  },
+  "nb": {
+      "name": "Norwegian",
+      "translit": false,
+      "flag": "require('./assets/flags/no.png')"
+  },
+  "ps": {
+      "name": "Pashto",
+      "translit": false,
+      "flag": "require('./assets/flags/af.png')"
+  },
+  "fa": {
+      "name": "Persian",
+      "translit": true,
+      "flag": "require('./assets/flags/ir.png')"
+  },
+  "pl": {
+      "name": "Polish",
+      "translit": false,
+      "flag": "require('./assets/flags/pl.png')"
+  },
+  "pt": {
+      "name": "Portuguese",
+      "translit": false,
+      "flag": "require('./assets/flags/pt.png')"
+  },
+  "pa": {
+      "name": "Punjabi",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "ro": {
+      "name": "Romanian",
+      "translit": false,
+      "flag": "require('./assets/flags/ro.png')"
+  },
+  "ru": {
+      "name": "Russian",
+      "translit": true,
+      "flag": "require('./assets/flags/ru.png')"
+  },
+  "sr": {
+      "name": "Serbian",
+      "translit": true,
+      "flag": "require('./assets/flags/rs.png')"
+  },
+  "si": {
+      "name": "Sinhala",
+      "translit": true,
+      "flag": "require('./assets/flags/lk.png')"
+  },
+  "sk": {
+      "name": "Slovak",
+      "translit": false,
+      "flag": "require('./assets/flags/sk.png')"
+  },
+  "sl": {
+      "name": "Slovenian",
+      "translit": false,
+      "flag": "require('./assets/flags/si.png')"
+  },
+  "so": {
+      "name": "Somali",
+      "translit": false,
+      "flag": "require('./assets/flags/so.png')"
+  },
+  "es": {
+      "name": "Spanish",
+      "translit": false,
+      "flag": "require('./assets/flags/mx.png')"
+  },
+  "su": {
+      "name": "Sundanese",
+      "translit": false,
+      "flag": "require('./assets/flags/sd.png')"
+  },
+  "sw": {
+      "name": "Swahili",
+      "translit": false,
+      "flag": "require('./assets/flags/tz.png')"
+  },
+  "sv": {
+      "name": "Swedish",
+      "translit": false,
+      "flag": "require('./assets/flags/se.png')"
+  },
+  "ta": {
+      "name": "Tamil",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "te": {
+      "name": "Telugu",
+      "translit": true,
+      "flag": "require('./assets/flags/in.png')"
+  },
+  "th": {
+      "name": "Thai",
+      "translit": false,
+      "flag": "require('./assets/flags/th.png')"
+  },
+  "tr": {
+      "name": "Turkish",
+      "translit": false,
+      "flag": "require('./assets/flags/tr.png')"
+  },
+  "uk": {
+      "name": "Ukrainian",
+      "translit": false,
+      "flag": "require('./assets/flags/ua.png')"
+  },
+  "ur": {
+      "name": "Urdu",
+      "translit": true,
+      "flag": "require('./assets/flags/pk.png')"
+  },
+  "uz": {
+      "name": "Uzbek",
+      "translit": false,
+      "flag": "require('./assets/flags/uz.png')"
+  },
+  "vi": {
+      "name": "Vietnamese",
+      "translit": false,
+      "flag": "require('./assets/flags/vn.png')"
+  },
+  "zu": {
+      "name": "Zulu",
+      "translit": false,
+      "flag": "require('./assets/flags/za.png')"
+  }
+}
