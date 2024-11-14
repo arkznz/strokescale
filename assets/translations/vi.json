@@ -1,0 +1,532 @@
+{
+	"sol": {
+		"age": [
+			{"translat": "mười", "translit": ""},
+			{"translat": "mười một", "translit": ""},
+			{"translat": "mười hai", "translit": ""},
+			{"translat": "mười ba", "translit": ""},
+			{"translat": "mười bốn", "translit": ""},
+			{"translat": "mười lăm", "translit": ""},
+			{"translat": "mười sáu", "translit": ""},
+			{"translat": "mười bảy", "translit": ""},
+			{"translat": "mười tám", "translit": ""},
+			{"translat": "mười chín", "translit": ""},
+			{"translat": "hai mươi", "translit": ""},
+			{"translat": "hai mươi mốt", "translit": ""},
+			{"translat": "hai mươi hai", "translit": ""},
+			{"translat": "hai mươi ba", "translit": ""},
+			{"translat": "hai mươi bốn", "translit": ""},
+			{"translat": "hai mươi lăm", "translit": ""},
+			{"translat": "hai mươi sáu", "translit": ""},
+			{"translat": "hai mươi bảy", "translit": ""},
+			{"translat": "hai mươi tám", "translit": ""},
+			{"translat": "hai mươi chín", "translit": ""},
+			{"translat": "ba mươi", "translit": ""},
+			{"translat": "ba mươi mốt", "translit": ""},
+			{"translat": "ba mươi hai", "translit": ""},
+			{"translat": "ba mươi ba", "translit": ""},
+			{"translat": "ba mươi bốn", "translit": ""},
+			{"translat": "ba mươi lăm", "translit": ""},
+			{"translat": "ba mươi sáu", "translit": ""},
+			{"translat": "ba mươi bảy", "translit": ""},
+			{"translat": "ba mươi tám", "translit": ""},
+			{"translat": "ba mươi chín", "translit": ""},
+			{"translat": "bốn mươi", "translit": ""},
+			{"translat": "bốn mươi mốt", "translit": ""},
+			{"translat": "bốn mươi hai", "translit": ""},
+			{"translat": "bốn mươi ba", "translit": ""},
+			{"translat": "bốn mươi bốn", "translit": ""},
+			{"translat": "bốn mươi lăm", "translit": ""},
+			{"translat": "bốn mươi sáu", "translit": ""},
+			{"translat": "bốn mươi bảy", "translit": ""},
+			{"translat": "bốn mươi tám", "translit": ""},
+			{"translat": "bốn mươi chín", "translit": ""},
+			{"translat": "năm mươi", "translit": ""},
+			{"translat": "năm mươi mốt", "translit": ""},
+			{"translat": "năm mươi hai", "translit": ""},
+			{"translat": "năm mươi ba", "translit": ""},
+			{"translat": "năm mươi bốn", "translit": ""},
+			{"translat": "năm mươi lăm", "translit": ""},
+			{"translat": "năm mươi sáu", "translit": ""},
+			{"translat": "năm mươi bảy", "translit": ""},
+			{"translat": "năm mươi tám", "translit": ""},
+			{"translat": "năm mươi chín", "translit": ""},
+			{"translat": "sáu mươi", "translit": ""},
+			{"translat": "sáu mươi mốt", "translit": ""},
+			{"translat": "sáu mươi hai", "translit": ""},
+			{"translat": "sáu mươi ba", "translit": ""},
+			{"translat": "sáu mươi bốn", "translit": ""},
+			{"translat": "sáu mươi lăm", "translit": ""},
+			{"translat": "sáu mươi sáu", "translit": ""},
+			{"translat": "sáu mươi bảy", "translit": ""},
+			{"translat": "sáu mươi tám", "translit": ""},
+			{"translat": "sáu mươi chín", "translit": ""},
+			{"translat": "bảy mươi", "translit": ""},
+			{"translat": "bảy mươi mốt", "translit": ""},
+			{"translat": "bảy mươi hai", "translit": ""},
+			{"translat": "bảy mươi ba", "translit": ""},
+			{"translat": "bảy mươi bốn", "translit": ""},
+			{"translat": "bảy mươi lăm", "translit": ""},
+			{"translat": "bảy mươi sáu", "translit": ""},
+			{"translat": "bảy mươi bảy", "translit": ""},
+			{"translat": "bảy mươi tám", "translit": ""},
+			{"translat": "bảy mươi chín", "translit": ""},
+			{"translat": "tám mươi", "translit": ""},
+			{"translat": "tám mươi mốt", "translit": ""},
+			{"translat": "tám mươi hai", "translit": ""},
+			{"translat": "tám mươi ba", "translit": ""},
+			{"translat": "tám mươi bốn", "translit": ""},
+			{"translat": "tám mươi lăm", "translit": ""},
+			{"translat": "tám mươi sáu", "translit": ""},
+			{"translat": "tám mươi bảy", "translit": ""},
+			{"translat": "tám mươi tám", "translit": ""},
+			{"translat": "tám mươi chín", "translit": ""},
+			{"translat": "chín mươi", "translit": ""},
+			{"translat": "chín mươi mốt", "translit": ""},
+			{"translat": "chín mươi hai", "translit": ""},
+			{"translat": "chín mươi ba", "translit": ""},
+			{"translat": "chín mươi bốn", "translit": ""},
+			{"translat": "chín mươi lăm", "translit": ""},
+			{"translat": "chín mươi sáu", "translit": ""},
+			{"translat": "chín mươi bảy", "translit": ""},
+			{"translat": "chín mươi tám", "translit": ""},
+			{"translat": "chín mươi chín", "translit": ""},
+			{"translat": "một trăm", "translit": ""},
+			{"translat": "một trăm lẻ một", "translit": ""},
+			{"translat": "một trăm lẻ hai", "translit": ""},
+			{"translat": "một trăm lẻ ba", "translit": ""},
+			{"translat": "một trăm lẻ bốn", "translit": ""},
+			{"translat": "một trăm lẻ năm", "translit": ""},
+			{"translat": "một trăm lẻ sáu", "translit": ""},
+			{"translat": "một trăm lẻ bảy", "translit": ""},
+			{"translat": "một trăm lẻ tám", "translit": ""},
+			{"translat": "một trăm lẻ chín", "translit": ""},
+			{"translat": "một trăm mười", "translit": ""},
+			{"translat": "một trăm mười một", "translit": ""},
+			{"translat": "một trăm mười hai", "translit": ""},
+			{"translat": "một trăm mười ba", "translit": ""},
+			{"translat": "một trăm mười bốn", "translit": ""},
+			{"translat": "một trăm mười lăm", "translit": ""},
+			{"translat": "một trăm mười sáu", "translit":""},
+			{"translat": "một trăm mười bảy", "translit": ""},
+			{"translat": "một trăm mười tám", "translit": ""},
+			{"translat": "một trăm mười chín", "translit": ""},
+			{"translat": "một trăm hai mươi", "translit": ""}
+		],
+		"month": [
+			{
+				"translat": "Tháng một",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng hai",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng Ba",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng tư",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng năm",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng Sáu",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng Bảy",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng tám",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng chín",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng Mười",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng Mười Một",
+				"translit": ""
+			},
+			{
+				"translat": "Tháng mười hai",
+				"translit": ""
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "Một",
+				"translit": ""
+			},
+			{
+				"translat": "Hai",
+				"translit": ""
+			},
+			{
+				"translat": "Ba",
+				"translit": ""
+			}
+		],
+		"description": [
+			{"translat": "người phụ nữ hoặc người mẹ", "translit": ""},
+			{"translat": "con trai", "translit": ""},
+			{"translat": "Cô gái hay con gái", "translit": ""}
+		],
+		"objects": [
+			{
+				"translat": "Viết mực",
+				"translit": ""
+			},
+			{
+				"translat": "Điện thoại di động",
+				"translit": ""
+			},
+			{
+				"translat": "Cái nút",
+				"translit": ""
+			},
+			{
+				"translat": "Cây xương rồng",
+				"translit": ""
+			},
+			{
+				"translat": "Bao tay",
+				"translit": ""
+			},
+			{
+				"translat": "Cái ghế",
+				"translit": ""
+			},
+			{
+				"translat": "Chìa khóa",
+				"translit": ""
+			},
+			{
+				"translat": "Võng",
+				"translit": ""
+			},
+			{
+				"translat": "Lông vũ",
+				"translit": ""
+			}
+		],
+		"affirm": [
+			{
+				"translat": "Co",
+				"translit": ""
+			},
+			{
+				"translat": "Không",
+				"translit": ""
+			}
+		],
+		"side": [
+			{
+				"translat": "Bên trái",
+				"translit": ""
+			},
+			{
+				"translat": "Bên phải",
+				"translit": ""
+			},
+			{
+				"translat": "Cả hai",
+				"translit": ""
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "Xin chào",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Có khoe khong",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Có đau không",
+				"translit": ""
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "Bao nhiêu tuổi?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Bây giờ là tháng mấy?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Hãy từ từ nói lại một lần nữa ",
+				"translit": ""
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "Nhắm mắt lại",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Mở mắt ra",
+				"translit": ""
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Mở bàn tay bên trái",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Mở bàn tay bên phải",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Khép bàn tay trái lại",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Khép bàn tay bên phải lại",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "Nhìn theo ngón tay của tôi",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Nhìn tôi",
+				"translit": ""
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "Nhìn vào mũi của tôi",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Có bao nhiêu ngón tay?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Bạn thấy có bao nhiêu ngón tay?",
+				"translit": ""
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "*think of a different term for smiling*",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Nâng chân mày của bạn",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Nhắm mắt lại",
+				"translit": ""
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Nâng cánh tay trái lên cho mười giây",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Nâng cánh tay phải lên cho mười giây",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Có thể cử động cánh tay trái được không?",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Có thể cử động cánh tay phải được không?",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Nâng chân trái lên cho năm giây",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Nâng chân phải lên cho năm giây",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Có thể di chuyển chân trái của bạn chút nào không?",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Có thể di chuyển chân phải chút nào không?",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": " Chạm vào mũi",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Chạm vào ngón tay của tôi",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Đặt gót chân của bạn vào ống chân của bạn sau đó trượt lên và xuống",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Đi lên và đi xuống",
+				"translit": ""
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "Có cảm giác không?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Nó có cảm thấy giống nhau ở cả hai bên không?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Trái, phải, hay cả hai?",
+				"translit": ""
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "Cái này là cái gì?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Mô tả bức hình này",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Đọc những từ này",
+				"translit": ""
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "Lặp lại",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Lặp lại theo tôi",
+				"translit": ""
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "Cảm ơn",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Tạm biệt",
+				"translit": ""
+			}
+		}
+	]
+}

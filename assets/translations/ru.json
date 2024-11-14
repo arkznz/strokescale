@@ -1,0 +1,532 @@
+{
+	"sol": {
+		"age": [
+		  {"translat": "десять", "translit": "desyat"},
+		  {"translat": "одиннадцать", "translit": "odinnadtsat"},
+		  {"translat": "двенадцать", "translit": "dvenadtsat"},
+		  {"translat": "тринадцать", "translit": "trinadtsat"},
+		  {"translat": "четырнадцать", "translit": "chetyrnadtsat"},
+		  {"translat": "пятнадцать", "translit": "pyatnadtsat"},
+		  {"translat": "шестнадцать", "translit": "shestnadtsat"},
+		  {"translat": "семнадцать", "translit": "semnadtsat"},
+		  {"translat": "восемнадцать", "translit": "vosemnadtsat"},
+		  {"translat": "девятнадцать", "translit": "devyatnadtsat"},
+		  {"translat": "двадцать", "translit": "dvadtsat"},
+		  {"translat": "двадцать один", "translit": "dvadtsat odin"},
+		  {"translat": "двадцать два", "translit": "dvadtsat dva"},
+		  {"translat": "двадцать три", "translit": "dvadtsat tri"},
+		  {"translat": "двадцать четыре", "translit": "dvadtsat chetyre"},
+		  {"translat": "двадцать пять", "translit": "dvadtsat pyat"},
+		  {"translat": "двадцать шесть", "translit": "dvadtsat shest"},
+		  {"translat": "двадцать семь", "translit": "dvadtsat sem"},
+		  {"translat": "двадцать восемь", "translit": "dvadtsat vosem"},
+		  {"translat": "двадцать девять", "translit": "dvadtsat devyat"},
+		  {"translat": "тридцать", "translit": "tridtsat"},
+		  {"translat": "тридцать один", "translit": "tridtsat odin"},
+		  {"translat": "тридцать два", "translit": "tridtsat dva"},
+		  {"translat": "тридцать три", "translit": "tridtsat tri"},
+		  {"translat": "тридцать четыре", "translit": "tridtsat chetyre"},
+		  {"translat": "тридцать пять", "translit": "tridtsat pyat"},
+		  {"translat": "тридцать шесть", "translit": "tridtsat shest"},
+		  {"translat": "тридцать семь", "translit": "tridtsat sem"},
+		  {"translat": "тридцать восемь", "translit": "tridtsat vosem"},
+		  {"translat": "тридцать девять", "translit": "tridtsat devyat"},
+		  {"translat": "сорок", "translit": "sorok"},
+		  {"translat": "сорок один", "translit": "sorok odin"},
+		  {"translat": "сорок два", "translit": "sorok dva"},
+		  {"translat": "сорок три", "translit": "sorok tri"},
+		  {"translat": "сорок четыре", "translit": "sorok chetyre"},
+		  {"translat": "сорок пять", "translit": "sorok pyat"},
+		  {"translat": "сорок шесть", "translit": "sorok shest"},
+		  {"translat": "сорок семь", "translit": "sorok sem"},
+		  {"translat": "сорок восемь", "translit": "sorok vosem"},
+		  {"translat": "сорок девять", "translit": "sorok devyat"},
+		  {"translat": "пятьдесят", "translit": "pyatdesyat"},
+		  {"translat": "пятьдесят один", "translit": "pyatdesyat odin"},
+		  {"translat": "пятьдесят два", "translit": "pyatdesyat dva"},
+		  {"translat": "пятьдесят три", "translit": "pyatdesyat tri"},
+		  {"translat": "пятьдесят четыре", "translit": "pyatdesyat chetyre"},
+		  {"translat": "пятьдесят пять", "translit": "pyatdesyat pyat"},
+		  {"translat": "пятьдесят шесть", "translit": "pyatdesyat shest"},
+		  {"translat": "пятьдесят семь", "translit": "pyatdesyat sem"},
+		  {"translat": "пятьдесят восемь", "translit": "pyatdesyat vosem"},
+		  {"translat": "пятьдесят девять", "translit": "pyatdesyat devyat"},
+		  {"translat": "шестьдесят", "translit": "shestdesyat"},
+		  {"translat": "шестьдесят один", "translit": "shestdesyat odin"},
+		  {"translat": "шестьдесят два", "translit": "shestdesyat dva"},
+		  {"translat": "шестьдесят три", "translit": "shestdesyat tri"},
+		  {"translat": "шестьдесят четыре", "translit": "shestdesyat chetyre"},
+		  {"translat": "шестьдесят пять", "translit": "shestdesyat pyat"},
+		  {"translat": "шестьдесят шесть", "translit": "shestdesyat shest"},
+		  {"translat": "шестьдесят семь", "translit": "shestdesyat sem"},
+		  {"translat": "шестьдесят восемь", "translit": "shestdesyat vosem"},
+		  {"translat": "шестьдесят девять", "translit": "shestdesyat devyat"},
+		  {"translat": "семьдесят", "translit": "semidesyat"},
+		  {"translat": "семьдесят один", "translit": "semidesyat odin"},
+		  {"translat": "семьдесят два", "translit": "semidesyat dva"},
+		  {"translat": "семьдесят три", "translit": "semidesyat tri"},
+		  {"translat": "семьдесят четыре", "translit": "semidesyat chetyre"},
+		  {"translat": "семьдесят пять", "translit": "semidesyat pyat"},
+		  {"translat": "семьдесят шесть", "translit": "semidesyat shest"},
+		  {"translat": "семьдесят семь", "translit": "semidesyat sem"},
+		  {"translat": "семьдесят восемь", "translit": "semidesyat vosem"},
+		  {"translat": "семьдесят девять", "translit": "semidesyat devyat"},
+		  {"translat": "восемьдесят", "translit": "vosemidesyat"},
+		  {"translat": "восемьдесят один", "translit": "vosemidesyat odin"},
+		  {"translat": "восемьдесят два", "translit": "vosemidesyat dva"},
+		  {"translat": "восемьдесят три", "translit": "vosemidesyat tri"},
+		  {"translat": "восемьдесят четыре", "translit": "vosemidesyat chetyre"},
+		  {"translat": "восемьдесят пять", "translit": "vosemidesyat pyat"},
+		  {"translat": "восемьдесят шесть", "translit": "vosemidesyat shest"},
+		  {"translat": "восемьдесят семь", "translit": "vosemidesyat sem"},
+			{"translat": "восемьдесят восемь", "translit": "vosemidesyat vosem"},
+		  {"translat": "восемьдесят девять", "translit": "vosemidesyat devyat"},
+		  {"translat": "девяносто", "translit": "devyanosto"},
+		  {"translat": "девяносто один", "translit": "devyanosto odin"},
+		  {"translat": "девяносто два", "translit": "devyanosto dva"},
+		  {"translat": "девяносто три", "translit": "devyanosto tri"},
+		  {"translat": "девяносто четыре", "translit": "devyanosto chetyre"},
+		  {"translat": "девяносто пять", "translit": "devyanosto pyat"},
+		  {"translat": "девяносто шесть", "translit": "devyanosto shest"},
+		  {"translat": "девяносто семь", "translit": "devyanosto sem"},
+		  {"translat": "девяносто восемь", "translit": "devyanosto vosem"},
+		  {"translat": "девяносто девять", "translit": "devyanosto devyat"},
+		  {"translat": "сто", "translit": "sto"},
+		  {"translat": "сто один", "translit": "sto odin"},
+		  {"translat": "сто два", "translit": "sto dva"},
+		  {"translat": "сто три", "translit": "sto tri"},
+		  {"translat": "сто четыре", "translit": "sto chetyre"},
+		  {"translat": "сто пять", "translit": "sto pyat"},
+		  {"translat": "сто шесть", "translit": "sto shest"},
+		  {"translat": "сто семь", "translit": "sto sem"},
+		  {"translat": "сто восемь", "translit": "sto vosem"},
+		  {"translat": "сто девять", "translit": "sto devyat"},
+		  {"translat": "сто десять", "translit": "sto desyat"},
+		  {"translat": "сто одиннадцать", "translit": "sto odinnadtsat"},
+		  {"translat": "сто двенадцать", "translit": "sto dvenadtsat"},
+		  {"translat": "сто тринадцать", "translit": "sto trinadtsat"},
+		  {"translat": "сто четырнадцать", "translit": "sto chetyrnadtsat"},
+		  {"translat": "сто пятнадцать", "translit": "sto pyatnadtsat"},
+		  {"translat": "сто шестнадцать", "translit": "sto shestnadtsat"},
+		  {"translat": "сто семнадцать", "translit": "sto semnadtsat"},
+		  {"translat": "сто восемнадцать", "translit": "sto vosemnadtsat"},
+		  {"translat": "сто девятнадцать", "translit": "sto devyatnadtsat"},
+		  {"translat": "сто двадцать", "translit": "sto dvadtsat"}
+		],
+		"month": [
+			{
+				"translat": "Январь",
+				"translit": "yanvar'"
+			},
+			{
+				"translat": "Февраль",
+				"translit": "fevral'"
+			},
+			{
+				"translat": "Март",
+				"translit": "mart"
+			},
+			{
+				"translat": "Апрель",
+				"translit": "aprel'"
+			},
+			{
+				"translat": "Май",
+				"translit": "maj"
+			},
+			{
+				"translat": "Июнь",
+				"translit": "iyun'"
+			},
+			{
+				"translat": "Июль",
+				"translit": "iyul'"
+			},
+			{
+				"translat": "Август",
+				"translit": "avgust"
+			},
+			{
+				"translat": "Сентябрь",
+				"translit": "sentyabr'"
+			},
+			{
+				"translat": "Октябрь",
+				"translit": "oktyabr'"
+			},
+			{
+				"translat": "Ноябрь",
+				"translit": "noyabr'"
+			},
+			{
+				"translat": "Декабрь",
+				"translit": "dekabr'"
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "Один",
+				"translit": "odin"
+			},
+			{
+				"translat": "Два",
+				"translit": "dva"
+			},
+			{
+				"translat": "Три",
+				"translit": "tri"
+			}
+		],
+		"description": [
+		  {"translat": "Женщина или мама", "translit": "Zhenshchina ili mama"},
+		  {"translat": "Мальчик или сын", "translit": "Mal'chik ili syn"},
+		  {"translat": "Девочка или дочь", "translit": "Devochka ili doch"}
+		],
+		"objects": [
+			{
+				"translat": "Ручка",
+				"translit": "ruchka"
+			},
+			{
+				"translat": "Мобильный телефон / мобильник",
+				"translit": "mobilniy telefon / mobil'nik"
+			},
+			{
+				"translat": "Кнопка",
+				"translit": "knopka"
+			},
+			{
+				"translat": "Кактус",
+				"translit": "kaktus"
+			},
+			{
+				"translat": "Перчатка",
+				"translit": "perchatka"
+			},
+			{
+				"translat": "Стул",
+				"translit": "stul"
+			},
+			{
+				"translat": "Ключ",
+				"translit": "klyuch"
+			},
+			{
+				"translat": "Гамак",
+				"translit": "gamak"
+			},
+			{
+				"translat": "Перо",
+				"translit": "pero"
+			}
+		],
+		"affirm": [
+			{
+				"translat": "Да",
+				"translit": "da"
+			},
+			{
+				"translat": "Нет",
+				"translit": "net"
+			}
+		],
+		"side": [
+			{
+				"translat": "Левый",
+				"translit": "levyy"
+			},
+			{
+				"translat": "Правый",
+				"translit": "pravyj"
+			},
+			{
+				"translat": "Оба",
+				"translit": "oba"
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "Здравствуйте",
+				"translit": "zdrastvuyte"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Как дела?",
+				"translit": "kak dela?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Вам больно?",
+				"translit": "vam bol'no?"
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "Сколько Вам лет?",
+				"translit": "skol'ko vam let"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Какой сейчас месяц?",
+				"translit": "kakoy seychas mesyats?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Пожалуйста, повторите по-медленнее",
+				"translit": "pozhaluysta, povtorite po-medlenneye"
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "Закройте глаза",
+				"translit": "zakroyte glaza"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Откройте глаза",
+				"translit": "otkroyte glaza"
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Раскройте левую руку.",
+					"translit": "raskroyte levuyu ruku."
+				},
+				"l": {
+					"translat": "Откройте правую руку.",
+					"translit": "otkroyte pravuyu ruku."
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Сожмите левую руку в кулак",
+					"translit": "sozhmite levuyu ruku v kulak"
+				},
+				"l": {
+					"translat": "Сожмите правую руку в кулак",
+					"translit": "sozhmite pravuyu ruku v kulak"
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "Следуй за моим пальцем",
+				"translit": "sleduy za moim pal'tsem"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Посмотрите на меня",
+				"translit": "posmotrite na menya"
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "Смотрите на мой нос",
+				"translit": "smotrite na moy nos"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Сколько пальцев?",
+				"translit": "skol'ko pal'tsev?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Сколько пальцев вы видите?",
+				"translit": "skol'ko pal'tsev vy vidite?"
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "Покажите ваши зубы",
+				"translit": "pokazhite vashi zuby"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Поднимите брови",
+				"translit": "podnimite brovi"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Закройте глаза",
+				"translit": "zakroyte glaza"
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Поднимите левую руку на десять секунд",
+					"translit": "podnimite levuyu ruku na desyat' sekund"
+				},
+				"l": {
+					"translat": "Поднимите правую руку на десять секунд",
+					"translit": "podnimite pravuyu ruku na desyat' sekund"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Левая рука вообще двигается? ",
+					"translit": "levaya ruka voobshche dvigayetsya?"
+				},
+				"l": {
+					"translat": "Правая рука вообще двигается?",
+					"translit": "pravaya ruka voobshche dvigayetsya?"
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Поднимите левую ногу на пять секунд",
+					"translit": "podnimite levuyu nogu na pyat' sekund"
+				},
+				"l": {
+					"translat": "Поднимите правую ногу на пять секунд",
+					"translit": "podnimite pravuyu nogu na pyat' sekund"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Левая нога вообще двигается?",
+					"translit": "levaya noga voobshche dvigayetsya?"
+				},
+				"l": {
+					"translat": "Правая нога вообще двигается?",
+					"translit": "pravaya noga voobshche dvigayetsya?"
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": "Коснитесь своего носа",
+				"translit": "kosnites' svoyego nosa"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Коснитесь моего пальца",
+				"translit": "kosnites' moyego pal'tsa"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Проведите пяткой вверх и вниз по голени",
+				"translit": "provedite pyatkoy vverkh i vniz po goleni"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Вверх и вниз",
+				"translit": "vverkh i vniz"
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "Вы это чувствуете?",
+				"translit": "vy eto chuvstvuyete?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Одинаково чувствуете с обеих сторон?",
+				"translit": "odinakovo сhuvstvuyete s obeikh storon?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Слева, справа или обе стороны?",
+				"translit": "sleva, sprava ili obe storony?"
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "Что это?",
+				"translit": "chto eto?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Опишите эту картинку",
+				"translit": "opishite etu kartinku"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Прочтите эти слова",
+				"translit": "prochtite eti slova"
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "Повторите",
+				"translit": "povtorite"
+			}
+		},
+		{
+			"phr": {
+				"translat": "Повторяйте за мной",
+				"translit": "povtoryayte za mnoy"
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "Спасибо",
+				"translit": "spasibo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "До свидания",
+				"translit": "do svidaniya"
+			}
+		}
+	]
+}

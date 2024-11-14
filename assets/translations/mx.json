@@ -1,0 +1,875 @@
+{
+	"sol": {
+		"age": [
+			{
+			   "translat":"diez",
+			   "translit":""
+			},
+			{
+			   "translat":"once",
+			   "translit":""
+			},
+			{
+			   "translat":"doce",
+			   "translit":""
+			},
+			{
+			   "translat":"trece",
+			   "translit":""
+			},
+			{
+			   "translat":"catorce",
+			   "translit":""
+			},
+			{
+			   "translat":"quince",
+			   "translit":""
+			},
+			{
+			   "translat":"dieciséis",
+			   "translit":""
+			},
+			{
+			   "translat":"diecisiete",
+			   "translit":""
+			},
+			{
+			   "translat":"dieciocho",
+			   "translit":""
+			},
+			{
+			   "translat":"diecinueve",
+			   "translit":""
+			},
+			{
+			   "translat":"veinte",
+			   "translit":""
+			},
+			{
+			   "translat":"veintiuno",
+			   "translit":""
+			},
+			{
+			   "translat":"veintidós",
+			   "translit":""
+			},
+			{
+			   "translat":"veintitrés",
+			   "translit":""
+			},
+			{
+			   "translat":"veinticuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"veinticinco",
+			   "translit":""
+			},
+			{
+			   "translat":"veintiséis",
+			   "translit":""
+			},
+			{
+			   "translat":"veintisiete",
+			   "translit":""
+			},
+			{
+			   "translat":"veintiocho",
+			   "translit":""
+			},
+			{
+			   "translat":"veintinueve",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y uno",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y dos",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y tres",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y seis",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y siete",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"treinta y nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y uno",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y dos",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y tres",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y seis",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y siete",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"cuarenta y nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y uno",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y dos",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y tres",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y seis",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y siete",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"cincuenta y nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y uno",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y dos",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y tres",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y seis",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y siete",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"sesenta y nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y uno",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y dos",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y tres",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y seis",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y siete",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"setenta y nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y uno",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y dos",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y tres",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y seis",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y siete",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"ochenta y nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y uno",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y dos",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y tres",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y seis",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y siete",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"noventa y nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento uno",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento dos",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento tres",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento cuatro",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento cinco",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento seis",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento siete",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento ocho",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento nueve",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento diez",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento once",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento doce",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento trece",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento catorce",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento quince",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento dieciséis",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento diecisiete",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento dieciocho",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento diecinueve",
+			   "translit":""
+			},
+			{
+			   "translat":"ciento veinte",
+			   "translit":""
+			}
+		 ],
+		"month": [
+			{
+				"translat": "Enero",
+				"translit": ""
+			},
+			{
+				"translat": "Febrero",
+				"translit": ""
+			},
+			{
+				"translat": "Marzo",
+				"translit": ""
+			},
+			{
+				"translat": "Abril",
+				"translit": ""
+			},
+			{
+				"translat": "Mayo",
+				"translit": ""
+			},
+			{
+				"translat": "Junio",
+				"translit": ""
+			},
+			{
+				"translat": "Julio",
+				"translit": ""
+			},
+			{
+				"translat": "Agosto",
+				"translit": ""
+			},
+			{
+				"translat": "Septiembre",
+				"translit": ""
+			},
+			{
+				"translat": "Octubre",
+				"translit": ""
+			},
+			{
+				"translat": "Noviembre",
+				"translit": ""
+			},
+			{
+				"translat": "Diciembre",
+				"translit": ""
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "Uno",
+				"translit": ""
+			},
+			{
+				"translat": "Dos",
+				"translit": ""
+			},
+			{
+				"translat": "Tres",
+				"translit": ""
+			}
+		],
+		"description": [
+			{
+				"translat": "La mujer o la madre",
+				"translit": ""
+			},
+			{
+				"translat": "El niño o el hijo",
+				"translit": ""
+			},
+			{
+				"translat": "La niña o la hija",
+				"translit": ""
+			}
+		],
+
+		"objects": [
+			{
+				"translat": "Pluma",
+				"translit": ""
+			},
+			{
+				"translat": "Teléfono",
+				"translit": ""
+			},
+			{
+				"translat": "Botón",
+				"translit": ""
+			},
+			{
+				"translat": "Cactus",
+				"translit": ""
+			},
+			{
+				"translat": "Guante",
+				"translit": ""
+			},
+			{
+				"translat": "Silla",
+				"translit": ""
+			},
+			{
+				"translat": "Llave",
+				"translit": ""
+			},
+			{
+				"translat": "Hamaca",
+				"translit": ""
+			},
+			{
+				"translat": "Pluma",
+				"translit": ""
+			}
+		],
+		"affirm": [
+			{
+				"translat": "Sí",
+				"translit": ""
+			},
+			{
+				"translat": "No",
+				"translit": ""
+			}
+		],
+		"side": [
+			{
+				"translat": "Izquierda",
+				"translit": ""
+			},
+			{
+				"translat": "Derecha",
+				"translit": ""
+			},
+			{
+				"translat": "Ambos",
+				"translit": ""
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "Hola",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "¿Cómo estás?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "¿Tienes dolor?",
+				"translit": ""
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "¿Cuantos años tienes?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "¿Qué mes es?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Por favor, repita lentamente",
+				"translit": ""
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "Cierra tus ojos",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Abre tus ojos",
+				"translit": ""
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Abre tu mano izquierda.",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Abre tu mano derecha.",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Cierra tu mano izquierda.",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Cierra tu mano derecha.",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "Sigue mi dedo",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Mírame",
+				"translit": ""
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "Mira mi nariz",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "¿Cuantos dedos ves?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "¿Cuántos dedos ves?",
+				"translit": ""
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "Sonría",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Levanta tus cejas",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Cierra tus ojos",
+				"translit": ""
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Levante el brazo izquierdo por diez segundos.",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Levante el brazo derecho por diez segundos",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "¿Puedes mover tu brazo izquierdo?",
+					"translit": ""
+				},
+				"l": {
+					"translat": "¿Puedes mover tu brazo derecho?",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Levante la pierna izquierda por cinco segundos.",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Levante la pierna derecha por cinco segundos.",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "¿Puedes mover la pierna izquierda?",
+					"translit": ""
+				},
+				"l": {
+					"translat": "¿Puedes mover la pierna derecha?",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": "Toca tu nariz",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Toca mi dedo",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Ponga su talón en la espinilla y luego deslíze hacia arriba y hacia abajo",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Suba y baje",
+				"translit": ""
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "¿Sientes esto?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "¿Se siente igual en ambos lados?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "¿Izquierda, derecha o ambas?",
+				"translit": ""
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "¿Que es esto?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Describe esta imagen",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Lea estas palabras",
+				"translit": ""
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "Repita",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Repita después de mi",
+				"translit": ""
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "Gracias",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Adiós",
+				"translit": ""
+			}
+		}
+	]
+}

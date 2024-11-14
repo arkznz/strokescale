@@ -1,0 +1,215 @@
+{
+   "sol":{
+      "month":[
+         "January",
+         "February",
+         "March",
+         "April",
+         "May",
+         "June",
+         "July",
+         "August",
+         "September",
+         "October",
+         "November",
+         "December"
+      ],
+      "fingercount":[
+         "One",
+         "Two",
+         "Three"
+      ],
+      "description":[
+         "The woman or the mom",
+         "The boy or the son",
+         "The girl or the daughter"
+      ],
+      "objects":[
+         "Pen",
+         "Cellphone",
+         "Button",
+         "Cactus",
+         "Glove",
+         "Chair",
+         "Door Key",
+         "Hammock",
+         "Feather"
+      ],
+      "affirm":[
+         "Yes",
+         "No"
+      ],
+      "side":[
+         "Left",
+         "Right",
+         "Both"
+      ]
+   },
+   "1a":[
+      {
+         "phr":"Hello"
+      },
+      {
+         "phr":"How are you?"
+      },
+      {
+         "phr":"Are you in pain?"
+      }
+   ],
+   "1b":[
+      {
+         "phr":"How old are you?",
+         "sol":"age"
+      },
+      {
+         "phr":"What month is it?",
+         "sol":"month"
+      },
+      {
+         "phr":"Please slowly say one more time"
+      }
+   ],
+   "1c":[
+      {
+         "phr":"Close your eyes"
+      },
+      {
+         "phr":"Open your eyes"
+      },
+      {
+         "opt":"paretic_hand",
+         "phr":{
+            "r":"Open your left hand",
+            "l":"Open your right hand"
+         }
+      },
+      {
+         "opt":"paretic_hand",
+         "phr":{
+            "r":"Close your left hand",
+            "l":"Close your right hand"
+         }
+      }
+   ],
+   "2":[
+      {
+         "phr":"Follow my finger"
+      },
+      {
+         "phr":"Look at me"
+      }
+   ],
+   "3":[
+      {
+         "phr":"Look at my nose"
+      },
+      {
+         "phr":"How many fingers?",
+         "sol":"fingers"
+      },
+      {
+         "phr":"How many fingers do you see?",
+         "sol":"fingers"
+      }
+   ],
+   "4":[
+      {
+         "phr":"Show me your teeth"
+      },
+      {
+         "phr":"Lift your eyebrows"
+      },
+      {
+         "phr":"Close your eyes"
+      }
+   ],
+   "5a":[
+      {
+         "opt":"paretic_hand",
+         "phr":{
+            "r":"Lift your left arm for ten seconds",
+            "l":"Lift your right arm for ten seconds"
+         }
+      },
+      {
+         "opt":"paretic_hand",
+         "phr":{
+            "r":"Can you move your left arm at all?",
+            "l":"Can you move your right arm at all?"
+         }
+      }
+   ],
+   "6a":[
+      {
+         "opt":"paretic_hand",
+         "phr":{
+            "r":"Lift your left leg for five seconds",
+            "l":"Lift your right leg for five seconds"
+         }
+      },
+      {
+         "opt":"paretic_hand",
+         "phr":{
+            "r":"Can you move your left leg at all?",
+            "l":"Can you move your right leg at all?"
+         }
+      }
+   ],
+   "7":[
+      {
+         "phr":"Touch your nose"
+      },
+      {
+         "phr":"Touch my finger"
+      },
+      {
+         "phr":"Put your heel to your shin then slide up and down"
+      },
+      {
+         "phr":"Go up and down"
+      }
+   ],
+   "8":[
+      {
+         "phr":"Do you you feel this?",
+         "sol":"affirm"
+      },
+      {
+         "phr":"Does it feel the same on both sides?",
+         "sol":"affirm"
+      },
+      {
+         "phr":"Left, right, or both?",
+         "sol":"side"
+      }
+   ],
+   "9":[
+      {
+         "phr":"What is this?",
+         "sol":"objects"
+      },
+      {
+         "phr":"Describe this picture",
+         "sol":"description"
+      },
+      {
+         "phr":"Read these words"
+      }
+   ],
+   "10":[
+      {
+         "phr":"Repeat"
+      },
+      {
+         "phr":"Repeat after me"
+      }
+   ],
+   "11":[
+      {
+         "phr":"Thank you"
+      },
+      {
+         "phr":"Goodbye"
+      }
+   ]
+}

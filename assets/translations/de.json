@@ -1,0 +1,532 @@
+{
+	"sol": {
+		"age":[
+			{"translat": "zehn", "translit": ""},
+			{"translat": "elf", "translit": ""},
+			{"translat": "zwölf", "translit": ""},
+			{"translat": "dreizehn", "translit": ""},
+			{"translat": "vierzehn", "translit": ""},
+			{"translat": "fünfzehn", "translit": ""},
+			{"translat": "sechzehn", "translit": ""},
+			{"translat": "siebzehn", "translit": ""},
+			{"translat": "achtzehn", "translit": ""},
+			{"translat": "neunzehn", "translit": ""},
+			{"translat": "zwanzig", "translit": ""},
+			{"translat": "einundzwanzig", "translit": ""},
+			{"translat": "zweiundzwanzig", "translit": ""},
+			{"translat": "dreiundzwanzig", "translit": ""},
+			{"translat": "vierundzwanzig", "translit": ""},
+			{"translat": "fünfundzwanzig", "translit": ""},
+			{"translat": "sechsundzwanzig", "translit": ""},
+			{"translat": "siebenundzwanzig", "translit": ""},
+			{"translat": "achtundzwanzig", "translit": ""},
+			{"translat": "neunundzwanzig", "translit": ""},
+			{"translat": "dreißig", "translit": ""},
+			{"translat": "einunddreißig", "translit": ""},
+			{"translat": "zweiunddreißig", "translit": ""},
+			{"translat": "dreiunddreißig", "translit": ""},
+			{"translat": "vierunddreißig", "translit": ""},
+			{"translat": "fünfunddreißig", "translit": ""},
+			{"translat": "sechsunddreißig", "translit": ""},
+			{"translat": "siebenunddreißig", "translit": ""},
+			{"translat": "achtunddreißig", "translit": ""},
+			{"translat": "neununddreißig", "translit": ""},
+			{"translat": "vierzig", "translit": ""},
+			{"translat": "einundvierzig", "translit": ""},
+			{"translat": "zweiundvierzig", "translit": ""},
+			{"translat": "dreiundvierzig", "translit": ""},
+			{"translat": "vierundvierzig", "translit": ""},
+			{"translat": "fünfundvierzig", "translit": ""},
+			{"translat": "sechsundvierzig", "translit": ""},
+			{"translat": "siebenundvierzig", "translit": ""},
+			{"translat": "achtundvierzig", "translit": ""},
+			{"translat": "neunundvierzig", "translit": ""},
+			{"translat": "fünfzig", "translit": ""},
+			{"translat": "einundfünfzig", "translit": ""},
+			{"translat": "zweiundfünfzig", "translit": ""},
+			{"translat": "dreiundfünfzig", "translit": ""},
+			{"translat": "vierundfünfzig", "translit": ""},
+			{"translat": "fünfundfünfzig", "translit": ""},
+			{"translat": "sechsundfünfzig", "translit": ""},
+			{"translat": "siebenundfünfzig", "translit": ""},
+			{"translat": "achtundfünfzig", "translit": ""},
+			{"translat": "neunundfünfzig", "translit": ""},
+			{"translat": "sechzig", "translit": ""},
+			{"translat": "einundsechzig", "translit": ""},
+			{"translat": "zweiundsechzig", "translit": ""},
+			{"translat": "dreiundsechzig", "translit": ""},
+			{"translat": "vierundsechzig", "translit": ""},
+			{"translat": "fünfundsechzig", "translit": ""},
+			{"translat": "sechsundsechzig", "translit": ""},
+			{"translat": "siebenundsechzig", "translit": ""},
+			{"translat": "achtundsechzig", "translit": ""},
+			{"translat": "neunundsechzig", "translit": ""},
+			{"translat": "siebzig", "translit": ""},
+			{"translat": "einundsiebzig", "translit": ""},
+			{"translat": "zweiundsiebzig", "translit": ""},
+			{"translat": "dreiundsiebzig", "translit": ""},
+			{"translat": "vierundsiebzig", "translit": ""},
+			{"translat": "fünfundsiebzig", "translit": ""},
+			{"translat": "sechsundsiebzig", "translit": ""},
+			{"translat": "siebenundsiebzig", "translit": ""},
+			{"translat": "achtundsiebzig", "translit": ""},
+			{"translat": "neunundsiebzig", "translit": ""},
+			{"translat": "achtzig", "translit": ""},
+			{"translat": "einundachtzig", "translit": ""},
+			{"translat": "zweiundachtzig", "translit": ""},
+			{"translat": "dreiundachtzig", "translit": ""},
+			{"translat": "vierundachtzig", "translit": ""},
+			{"translat": "fünfundachtzig", "translit": ""},
+			{"translat": "sechsundachtzig", "translit": ""},
+			{"translat": "siebenundachtzig", "translit": ""},
+			{"translat": "achtundachtzig", "translit": ""},
+			{"translat": "neunundachtzig", "translit": ""},
+			{"translat": "neunzig", "translit": ""},
+			{"translat": "einundneunzig", "translit": ""},
+			{"translat": "zweiundneunzig", "translit": ""},
+			{"translat": "dreiundneunzig", "translit": ""},
+			{"translat": "vierundneunzig", "translit": ""},
+			{"translat": "fünfundneunzig", "translit": ""},
+			{"translat": "sechsundneunzig", "translit": ""},
+			{"translat": "siebenundneunzig", "translit": ""},
+			{"translat": "achtundneunzig", "translit": ""},
+			{"translat": "neunundneunzig", "translit": ""},
+			{"translat": "hundert", "translit": ""},
+			{"translat": "hunderteins", "translit": ""},
+			{"translat": "hundertzwei", "translit": ""},
+			{"translat": "hundertdrei", "translit": ""},
+			{"translat": "hundertvier", "translit": ""},
+			{"translat": "hundertfünf", "translit": ""},
+			{"translat": "hundertsechs", "translit": ""},
+			{"translat": "hundertsieben", "translit": ""},
+			{"translat": "hundertacht", "translit": ""},
+			{"translat": "hundertneun", "translit": ""},
+			{"translat": "hundertzehn", "translit": ""},
+			{"translat": "hundertelf", "translit": ""},
+			{"translat": "hundertzwölf", "translit": ""},
+			{"translat": "hundertdreizehn", "translit": ""},
+			{"translat": "hundertvierzehn", "translit": ""},
+			{"translat": "hundertfünfzehn", "translit": ""},
+			{"translat": "hundertsechzehn", "translit": ""},
+			{"translat": "hundertsiebzehn", "translit": ""},
+			{"translat": "hundertachtzehn", "translit": ""},
+			{"translat": "hundertneunzehn", "translit": ""},
+			{"translat": "hundertzwanzig", "translit": ""}
+		  ],
+		"month": [
+			{
+				"translat": "Januar",
+				"translit": ""
+			},
+			{
+				"translat": "Februar",
+				"translit": ""
+			},
+			{
+				"translat": "März",
+				"translit": ""
+			},
+			{
+				"translat": "April",
+				"translit": ""
+			},
+			{
+				"translat": "Kann",
+				"translit": ""
+			},
+			{
+				"translat": "Juni",
+				"translit": ""
+			},
+			{
+				"translat": "Juli",
+				"translit": ""
+			},
+			{
+				"translat": "August",
+				"translit": ""
+			},
+			{
+				"translat": "September",
+				"translit": ""
+			},
+			{
+				"translat": "Oktober",
+				"translit": ""
+			},
+			{
+				"translat": "November",
+				"translit": ""
+			},
+			{
+				"translat": "Dezember",
+				"translit": ""
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "Einer",
+				"translit": ""
+			},
+			{
+				"translat": "Zwei",
+				"translit": ""
+			},
+			{
+				"translat": "Drei",
+				"translit": ""
+			}
+		],
+		"description": [
+			{"translat": "Die Frau oder die Mutter", "translit": ""},
+			{"translat": "Der Junge oder der Sohn", "translit": ""},
+			{"translat": "Das Mädchen oder die Tochter", "translit": ""}
+		  ],
+		"objects": [
+			{
+				"translat": "Stift",
+				"translit": ""
+			},
+			{
+				"translat": "Handy",
+				"translit": ""
+			},
+			{
+				"translat": "Taste",
+				"translit": ""
+			},
+			{
+				"translat": "Kaktus",
+				"translit": ""
+			},
+			{
+				"translat": "Handschuh",
+				"translit": ""
+			},
+			{
+				"translat": "Sessel",
+				"translit": ""
+			},
+			{
+				"translat": "Türschlüssel",
+				"translit": ""
+			},
+			{
+				"translat": "Hängematte",
+				"translit": ""
+			},
+			{
+				"translat": "Feder",
+				"translit": ""
+			}
+		],
+		"affirm": [
+			{
+				"translat": "Jawohl",
+				"translit": ""
+			},
+			{
+				"translat": "Nein",
+				"translit": ""
+			}
+		],
+		"side": [
+			{
+				"translat": "Links",
+				"translit": ""
+			},
+			{
+				"translat": "Rechts",
+				"translit": ""
+			},
+			{
+				"translat": "Beide",
+				"translit": ""
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "Hallo",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Wie geht es Ihnen?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Hast Du Schmerzen?",
+				"translit": ""
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "Wie alt sind Sie?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Welchen Monat haben wir?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Sag bitte noch einmal langsam",
+				"translit": ""
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "Schließe deine Augen",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Öffne deine Augen",
+				"translit": ""
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Öffne deine linke Hand.",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Öffne deine rechte Hand.",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Schließe deine linke Hand.",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Schließen Sie Ihre rechte Hand.",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "Folge meinem Finger",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Sieh mich an",
+				"translit": ""
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "Schau auf meine Nase",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Wie viele Finger?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Wie viele Finger siehst du?",
+				"translit": ""
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "Zeig mir deine Zähne",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Hebe deine Augenbrauen an",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Schließe deine Augen",
+				"translit": ""
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Hebe deinen linken Arm für zehn Sekunden an",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Hebe deinen rechten Arm für zehn Sekunden an",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Kannst du deinen linken Arm überhaupt bewegen?",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Kannst du deinen rechten Arm überhaupt bewegen?",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Hebe dein linkes Bein fünf Sekunden lang an",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Hebe dein rechtes Bein fünf Sekunden lang an",
+					"translit": ""
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "Kannst du dein linkes Bein überhaupt bewegen?",
+					"translit": ""
+				},
+				"l": {
+					"translat": "Kannst du dein rechtes Bein überhaupt bewegen?",
+					"translit": ""
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": "Berühre deine Nase",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Berühre meinen Finger",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Setzen Sie Ihre Ferse an Ihr Schienbein und gleiten Sie dann auf und ab",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Auf und ab gehen",
+				"translit": ""
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "Fühlst du das?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Fühlt es sich auf beiden Seiten gleich an?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Links, rechts oder beides?",
+				"translit": ""
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "Was ist das?",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Beschreibe dieses Bild",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Lies diese Worte",
+				"translit": ""
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "Wiederholen",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Sprich mir nach",
+				"translit": ""
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "Dankeschön",
+				"translit": ""
+			}
+		},
+		{
+			"phr": {
+				"translat": "Auf Wiedersehen",
+				"translit": ""
+			}
+		}
+	]
+}

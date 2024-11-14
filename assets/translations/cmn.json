@@ -1,0 +1,532 @@
+{
+	"sol": {
+		"age": [
+			{"translat":"十", "translit":"shí"},
+			{"translat":"十一", "translit":"shíyī"},
+			{"translat":"十二", "translit":"shí'èr"},
+			{"translat":"十三", "translit":"shísān"},
+			{"translat":"十四", "translit":"shísì"},
+			{"translat":"十五", "translit":"shíwǔ"},
+			{"translat":"十六", "translit":"shíliù"},
+			{"translat":"十七", "translit":"shíqī"},
+			{"translat":"十八", "translit":"shíbā"},
+			{"translat":"十九", "translit":"shíjiǔ"},
+			{"translat":"二十", "translit":"èrshí"},
+			{"translat":"二十一", "translit":"èrshíyī"},
+			{"translat":"二十二", "translit":"èrshí'èr"},
+			{"translat":"二十三", "translit":"èrshísān"},
+			{"translat":"二十四", "translit":"èrshísì"},
+			{"translat":"二十五", "translit":"èrshíwǔ"},
+			{"translat":"二十六", "translit":"èrshíliù"},
+			{"translat":"二十七", "translit":"èrshíqī"},
+			{"translat":"二十八", "translit":"èrshíbā"},
+			{"translat":"二十九", "translit":"èrshíjiǔ"},
+			{"translat":"三十", "translit":"sānshí"},
+			{"translat":"三十一", "translit":"sānshíyī"},
+			{"translat":"三十二", "translit":"sānshí'èr"},
+			{"translat":"三十三", "translit":"sānshísān"},
+			{"translat":"三十四", "translit":"sānshísì"},
+			{"translat":"三十五", "translit":"sānshíwǔ"},
+			{"translat":"三十六", "translit":"sānshíliù"},
+			{"translat":"三十七", "translit":"sānshíqī"},
+			{"translat":"三十八", "translit":"sānshíbā"},
+			{"translat":"三十九", "translit":"sānshíjiǔ"},
+			{"translat":"四十", "translit":"sìshí"},
+			{"translat":"四十一", "translit":"sìshíyī"},
+			{"translat":"四十二", "translit":"sìshí'èr"},
+			{"translat":"四十三", "translit":"sìshísān"},
+			{"translat":"四十四", "translit":"sìshísì"},
+			{"translat":"四十五", "translit":"sìshíwǔ"},
+			{"translat":"四十六", "translit":"sìshíliù"},
+			{"translat":"四十七", "translit":"sìshíqī"},
+			{"translat":"四十八", "translit":"sìshíbā"},
+			{"translat":"四十九", "translit":"sìshíjiǔ"},
+			{"translat":"五十", "translit":"wǔshí"},
+			{"translat":"五十一", "translit":"wǔshíyī"},
+			{"translat":"五十二", "translit":"wǔshí'èr"},
+			{"translat":"五十三", "translit":"wǔshísān"},
+			{"translat":"五十四", "translit":"wǔshísì"},
+			{"translat":"五十五", "translit":"wǔshíwǔ"},
+			{"translat":"五十六", "translit":"wǔshíliù"},
+			{"translat":"五十七", "translit":"wǔshíqī"},
+			{"translat":"五十八", "translit":"wǔshíbā"},
+			{"translat":"五十九", "translit":"wǔshíjiǔ"},
+			{"translat":"六十", "translit":"liùshí"},
+			{"translat":"六十一", "translit":"liùshíyī"},
+			{"translat":"六十二", "translit":"liùshí'èr"},
+			{"translat":"六十三", "translit":"liùshísān"},
+			{"translat":"六十四", "translit":"liùshísì"},
+			{"translat":"六十五", "translit":"liùshíwǔ"},
+			{"translat":"六十六", "translit":"liùshíliù"},
+			{"translat":"六十七", "translit":"liùshíqī"},
+			{"translat":"六十八", "translit":"liùshíbā"},
+			{"translat":"六十九", "translit":"liùshíjiǔ"},
+			{"translat":"七十", "translit":"qīshí"},
+			{"translat":"七十一", "translit":"qīshíyī"},
+			{"translat":"七十二", "translit":"qīshí'èr"},
+			{"translat":"七十三", "translit":"qīshísān"},
+			{"translat":"七十四", "translit":"qīshísì"},
+			{"translat":"七十五", "translit":"qīshíwǔ"},
+			{"translat":"七十六", "translit":"qīshíliù"},
+			{"translat":"七十七", "translit":"qīshíqī"},
+			{"translat":"七十八", "translit":"qīshíbā"},
+			{"translat":"七十九", "translit":"qīshíjiǔ"},
+			{"translat":"八十", "translit":"bāshí"},
+			{"translat":"八十一", "translit":"bāshíyī"},
+			{"translat":"八十二", "translit":"bāshí'èr"},
+			{"translat":"八十三", "translit":"bāshísān"},
+			{"translat":"八十四", "translit":"bāshísì"},
+			{"translat":"八十五", "translit":"bāshíwǔ"},
+			{"translat":"八十六", "translit":"bāshíliù"},
+			{"translat":"八十七", "translit":"bāshíqī"},
+			{"translat":"八十八", "translit":"bāshíbā"},
+			{"translat":"八十九", "translit":"bāshíjiǔ"},
+			{"translat":"九十", "translit":"jiǔshí"},
+			{"translat":"九十一", "translit":"jiǔshíyī"},
+			{"translat":"九十二", "translit":"jiǔshí'èr"},
+			{"translat":"九十三", "translit":"jiǔshísān"},
+			{"translat":"九十四", "translit":"jiǔshísì"},
+			{"translat":"九十五", "translit":"jiǔshíwǔ"},
+			{"translat":"九十六", "translit":"jiǔshíliù"},
+			{"translat":"九十七", "translit":"jiǔshíqī"},
+			{"translat":"九十八", "translit":"jiǔshíbā"},
+			{"translat":"九十九", "translit":"jiǔshíjiǔ"},
+			{"translat":"一百", "translit":"yìbǎi"},
+			{"translat":"一百零一", "translit":"yìbǎi líng yī"},
+			{"translat":"一百零二", "translit":"yìbǎi líng èr"},
+			{"translat":"一百零三", "translit":"yìbǎi líng sān"},
+			{"translat":"一百零四", "translit":"yìbǎi líng sì"},
+			{"translat":"一百零五", "translit":"yìbǎi líng wǔ"},
+			{"translat":"一百零六", "translit":"yìbǎi líng liù"},
+			{"translat":"一百零七", "translit":"yìbǎi líng qī"},
+			{"translat":"一百零八", "translit":"yìbǎi líng bā"},
+			{"translat":"一百零九", "translit":"yìbǎi líng jiǔ"},
+			{"translat":"一百一十", "translit":"yìbǎi yīshí"},
+			{"translat":"一百一十一", "translit":"yìbǎi yīshíyī"},
+			{"translat":"一百一十二", "translit":"yìbǎi yīshí'èr"},
+			{"translat":"一百一十三", "translit":"yìbǎi yīshísān"},
+			{"translat":"一百一十四", "translit":"yìbǎi yīshísì"},
+			{"translat":"一百一十五", "translit":"yìbǎi yīshíwǔ"},
+			{"translat":"一百一十六", "translit":"yìbǎi yīshíliù"},
+			{"translat":"一百一十七", "translit":"yìbǎi yīshíqī"},
+			{"translat":"一百一十八", "translit":"yìbǎi yīshíbā"},
+			{"translat":"一百一十九", "translit":"yìbǎi yīshíjiǔ"},
+			{"translat":"一百二十", "translit":"yìbǎi èrshí"}
+		],
+		"month": [
+			{
+				"translat": "一月",
+				"translit": "yī yuè"
+			},
+			{
+				"translat": "二月",
+				"translit": "èr yuè"
+			},
+			{
+				"translat": "三月",
+				"translit": "sān yuè"
+			},
+			{
+				"translat": "四月",
+				"translit": "sì yuè"
+			},
+			{
+				"translat": "五月",
+				"translit": "wǔ yuè"
+			},
+			{
+				"translat": "六月",
+				"translit": "liù yuè"
+			},
+			{
+				"translat": "七月",
+				"translit": "qī yuè"
+			},
+			{
+				"translat": "八月",
+				"translit": "bā yuè"
+			},
+			{
+				"translat": "九月",
+				"translit": "jiǔ yuè"
+			},
+			{
+				"translat": "十月",
+				"translit": "shí yuè"
+			},
+			{
+				"translat": "十一月",
+				"translit": "shíyī yuè"
+			},
+			{
+				"translat": "十二月",
+				"translit": "shí'èr yuè"
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "一",
+				"translit": "yī"
+			},
+			{
+				"translat": "二",
+				"translit": "èr"
+			},
+			{
+				"translat": "三",
+				"translit": "sān"
+			}
+		],
+		"description": [
+			{"translat":"女人或媽媽", "translit":"nǚrén huò māmā"},
+			{"translat":"男孩或兒子", "translit":"nánhái huò érzi"},
+			{"translat":"女孩或女兒", "translit":"nǚhái huò nǚ'ér"}
+		],
+		"objects": [
+			{
+				"translat": "笔",
+				"translit": "bǐ"
+			},
+			{
+				"translat": "手機",
+				"translit": "shǒujī"
+			},
+			{
+				"translat": "扣子",
+				"translit": "kòuzi"
+			},
+			{
+				"translat": "仙人掌",
+				"translit": "xiānrénzhǎng"
+			},
+			{
+				"translat": "手套",
+				"translit": "shǒutào"
+			},
+			{
+				"translat": "椅子",
+				"translit": "yǐzi"
+			},
+			{
+				"translat": "鑰匙",
+				"translit": "yàoshi"
+			},
+			{
+				"translat": "吊床",
+				"translit": "diàochuáng"
+			},
+			{
+				"translat": "羽毛",
+				"translit": "yǔmáo"
+			}
+		],
+		"affirm": [
+			{
+				"translat": "是的",
+				"translit": "shì de"
+			},
+			{
+				"translat": "不",
+				"translit": "bù"
+			}
+		],
+		"side": [
+			{
+				"translat": "左边",
+				"translit": "zuǒ biān"
+			},
+			{
+				"translat": "右边",
+				"translit": "yòu biān"
+			},
+			{
+				"translat": "兩边",
+				"translit": "liǎng biān"
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "你好",
+				"translit": "nǐ hǎo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "你好嗎？",
+				"translit": "nǐ hǎo ma?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "你会痛吗",
+				"translit": "nǐ huì tòng ma"
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "你幾歲？",
+				"translit": "nǐ jǐ suì?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "現在是幾月？",
+				"translit": "xiànzài shì jǐ yuè?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "請再慢慢說一遍",
+				"translit": "qǐng zài màn man shuō yībiàn"
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "閉上眼睛",
+				"translit": "bì shàng yǎnjīng"
+			}
+		},
+		{
+			"phr": {
+				"translat": "张开眼睛",
+				"translit": "zhāng kāi yǎnjīng"
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "打开左手掌",
+					"translit": "dǎkāi zuǒ shǒuzhǎng"
+				},
+				"l": {
+					"translat": "打开右手掌",
+					"translit": "dǎkāi yòu shǒuzhǎng"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "合起左手掌",
+					"translit": "hé qǐ zuǒ shǒuzhǎng"
+				},
+				"l": {
+					"translat": "合起右手掌",
+					"translit": "hé qǐ yòu shǒuzhǎng"
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "眼睛跟著我的手指",
+				"translit": "yǎnjīng gēnzhe wǒ de shǒuzhǐ"
+			}
+		},
+		{
+			"phr": {
+				"translat": "看著我",
+				"translit": "kànzhe wǒ"
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "看著我的鼻子",
+				"translit": "kànzhe wǒ de bízi"
+			}
+		},
+		{
+			"phr": {
+				"translat": "几根手指",
+				"translit": "jǐ gēn shǒuzhǐ"
+			}
+		},
+		{
+			"phr": {
+				"translat": "你看到几根手指",
+				"translit": "nǐ kàn dào jǐ gēn shǒuzhǐ"
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "讓我看你的牙齒",
+				"translit": "ràng wǒ kàn nǐ de yáchǐ"
+			}
+		},
+		{
+			"phr": {
+				"translat": "扬起眉毛",
+				"translit": "yáng qǐ méimáo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "閉上眼睛",
+				"translit": "bì shàng yǎnjīng"
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "抬起左臂十秒鐘",
+					"translit": "tái qǐ zuǒ bì shí miǎo zhōng"
+				},
+				"l": {
+					"translat": "抬起右臂十秒鐘",
+					"translit": "tái qǐ yòu bì shí miǎo zhōng"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "你能動你的左臂嗎？",
+					"translit": "nǐ néngdòng nǐ de zuǒ bì ma?"
+				},
+				"l": {
+					"translat": "你能動你的右臂嗎？",
+					"translit": "nǐ néngdòng nǐ de yòu bì ma?"
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "抬起左腿五秒鐘",
+					"translit": "tái qǐ zuǒ tuǐ wǔ miǎo zhōng"
+				},
+				"l": {
+					"translat": "抬起右腿五秒鐘",
+					"translit": "tái qǐ yòu tuǐ wǔ miǎo zhōng"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "你能動你的左腿嗎？",
+					"translit": "nǐ néngdòng nǐ de zuǒ tuǐ ma?"
+				},
+				"l": {
+					"translat": "你能動你的右腿嗎？",
+					"translit": "nǐ néngdòng nǐ de yòu tuǐ ma?"
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": "摸你的鼻子",
+				"translit": "mō nǐ de bízi"
+			}
+		},
+		{
+			"phr": {
+				"translat": "摸我的手指",
+				"translit": "mō wǒ de shǒuzhǐ"
+			}
+		},
+		{
+			"phr": {
+				"translat": "將腳後跟放在小腿上，然後上下滑動",
+				"translit": "jiāng jiǎohòugēn fàng zài xiǎotuǐ shàng, ránhòu shàngxià huádòng"
+			}
+		},
+		{
+			"phr": {
+				"translat": "上下移动",
+				"translit": "shàngxià yídòng"
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "你有感覺嗎？",
+				"translit": "nǐ yǒu gǎnjué ma?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "兩邊感覺一樣嗎？",
+				"translit": "liǎngbiān gǎnjué yīyàng ma?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "左，右，或两边都有感覺嗎？",
+				"translit": "zuǒ, yòu, huò liǎngbiān dōu yǒu gǎnjué ma?"
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "這是什麼？",
+				"translit": "zhè shì shénme?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "描述這張圖片",
+				"translit": "miáoshù zhè zhāng túpiàn"
+			}
+		},
+		{
+			"phr": {
+				"translat": "讀這些字",
+				"translit": "dú zhèxiē zì"
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "再一次",
+				"translit": "zài yīcì"
+			}
+		},
+		{
+			"phr": {
+				"translat": "跟着我说 ",
+				"translit": "gēnzhe wǒ shuō"
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "謝謝",
+				"translit": "xièxiè"
+			}
+		},
+		{
+			"phr": {
+				"translat": "再見",
+				"translit": "zàijiàn"
+			}
+		}
+	]
+}

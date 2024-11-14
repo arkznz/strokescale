@@ -1,0 +1,532 @@
+{
+	"sol": {
+		"age": [
+				{"translat": "열", "translit": "yeol"},
+				{"translat": "열하나", "translit": "yeolhana"},
+				{"translat": "열둘", "translit": "yeoldul"},
+				{"translat": "열셋", "translit": "yeolset"},
+				{"translat": "열넷", "translit": "yeolnet"},
+				{"translat": "열다섯", "translit": "yeoldaseot"},
+				{"translat": "열여섯", "translit": "yeolyeoseot"},
+				{"translat": "열일곱", "translit": "yeolilgop"},
+				{"translat": "열여덟", "translit": "yeolyeodeol"},
+				{"translat": "열아홉", "translit": "yeolahop"},
+				{"translat": "스물", "translit": "seumul"},
+				{"translat": "스물하나", "translit": "seumulhana"},
+				{"translat": "스물둘", "translit": "seumul dul"},
+				{"translat": "스물셋", "translit": "seumul set"},
+				{"translat": "스물넷", "translit": "seumul net"},
+				{"translat": "스물다섯", "translit": "seumul daseot"},
+				{"translat": "스물여섯", "translit": "seumul yeoseot"},
+				{"translat": "스물일곱", "translit": "seumul ilgop"},
+				{"translat": "스물여덟", "translit": "seumul yeodeol"},
+				{"translat": "스물아홉", "translit": "seumul ahop"},
+				{"translat": "서른", "translit": "seoreun"},
+				{"translat": "서른하나", "translit": "seoreun hana"},
+				{"translat": "서른둘", "translit": "seoreundul"},
+				{"translat": "서른셋", "translit": "seoreunset"},
+				{"translat": "서른넷", "translit": "seoreunnet"},
+				{"translat": "서른다섯", "translit": "seoreundaseot"},
+				{"translat": "서른여섯", "translit": "seoreunyeoseot"},
+				{"translat": "서른일곱", "translit": "seoreunilgop"},
+				{"translat": "서른여덟", "translit": "seoreunyeodeol"},
+				{"translat": "서른아홉", "translit": "seoreunahop"},
+				{"translat": "마흔", "translit": "maheun"},
+				{"translat": "마흔하나", "translit": "maheunhana"},
+				{"translat": "마흔둘", "translit": "maheundul"},
+				{"translat": "마흔셋", "translit": "maheunset"},
+				{"translat": "마흔넷", "translit": "maheunnet"},
+				{"translat": "마흔다섯", "translit": "maheundaseot"},
+				{"translat": "마흔여섯", "translit": "maheunyeoseot"},
+				{"translat": "마흔일곱", "translit": "maheunilgop"},
+				{"translat": "마흔여덟", "translit": "maheunyeodeol"},
+				{"translat": "마흔아홉", "translit": "maheunahop"},
+				{"translat": "쉰", "translit": "swin"},
+				{"translat": "쉰하나", "translit": "swinhana"},
+				{"translat": "쉰둘", "translit": "swindul"},
+				{"translat": "쉰셋", "translit": "swinset"},
+				{"translat": "쉰넷", "translit": "swinnet"},
+				{"translat": "쉰다섯", "translit": "swindaseot"},
+				{"translat": "쉰여섯", "translit": "swinyeoseot"},
+				{"translat": "쉰일곱", "translit": "swinilgop"},
+				{"translat": "쉰여덟", "translit": "swinyeodeol"},
+				{"translat": "쉰아홉", "translit": "swinahop"},
+				{"translat": "예순", "translit": "yesun"},
+				{"translat": "예순하나", "translit": "yesunhana"},
+				{"translat": "예순둘", "translit": "yesundul"},
+				{"translat": "예순셋", "translit": "yesunset"},
+				{"translat": "예순넷", "translit": "yesunnet"},
+				{"translat": "예순다섯", "translit": "yesundaseot"},
+				{"translat": "예순여섯", "translit": "yesunyeoseot"},
+				{"translat": "예순일곱", "translit": "yesunilgop"},
+				{"translat": "예순여덟", "translit": "yesunyeodeol"},
+				{"translat": "예순아홉", "translit": "yesunahop"},
+				{"translat": "일흔", "translit": "ilheun"},
+				{"translat": "일흔하나", "translit": "ilheunhana"},
+				{"translat": "일흔둘", "translit": "ilheundul"},
+				{"translat": "일흔셋", "translit": "ilheunset"},
+				{"translat": "일흔넷", "translit": "ilheunnet"},
+				{"translat": "일흔다섯", "translit": "ilheundaseot"},
+				{"translat": "일흔여섯", "translit": "ilheunyeoseot"},
+				{"translat": "일흔일곱", "translit": "ilheunilgop"},
+				{"translat": "일흔여덟", "translit": "ilheunyeodeol"},
+				{"translat": "일흔아홉", "translit": "ilheunahop"},
+				{"translat": "여든", "translit": "yeodeun"},
+				{"translat": "여든하나", "translit": "yeodeunhana"},
+				{"translat": "여든둘", "translit": "yeodeundul"},
+				{"translat": "여든셋", "translit": "yeodeunset"},
+				{"translat": "여든넷", "translit": "yeodeunnet"},
+				{"translat": "여든다섯", "translit": "yeodeundaseot"},
+				{"translat": "여든여섯", "translit": "yeodeunyeoseot"},
+				{"translat": "여든일곱", "translit": "yeodeunilgop"},
+				{"translat": "여든여덟", "translit": "yeodeunyeodeol"},
+				{"translat": "여든아홉", "translit": "yeodeunahop"},
+				{"translat": "아흔", "translit": "aheun"},
+				{"translat": "아흔하나", "translit": "aheunhana"},
+				{"translat": "아흔둘", "translit": "aheundul"},
+				{"translat": "아흔셋", "translit": "aheunset"},
+				{"translat": "아흔넷", "translit": "aheunnet"},
+				{"translat": "아흔다섯", "translit": "aheundaseot"},
+				{"translat": "아흔여섯", "translit": "aheunyeoseot"},
+				{"translat": "아흔일곱", "translit": "aheunilgop"},
+				{"translat": "아흔여덟", "translit": "aheunyeodeol"},
+				{"translat": "아흔아홉", "translit": "aheunahop"},
+				{"translat": "백", "translit": "baek"},
+				{"translat": "백하나", "translit": "baekhana"},
+				{"translat": "백둘", "translit": "baekdul"},
+				{"translat": "백셋", "translit": "baekset"},
+				{"translat": "백넷", "translit": "baeknet"},
+				{"translat": "백다섯", "translit": "baekdaseot"},
+				{"translat": "백여섯", "translit": "baekyeoseot"},
+				{"translat": "백일곱", "translit": "baekilgop"},
+				{"translat": "백여덟", "translit": "baekyeodeol"},
+				{"translat": "백아홉", "translit": "baekahop"},
+				{"translat": "백십", "translit": "baeksib"},
+				{"translat": "백십하나", "translit": "baeksibhana"},
+				{"translat": "백십둘", "translit": "baeksibdul"},
+				{"translat": "백십셋", "translit": "baeksibset"},
+				{"translat": "백십넷", "translit": "baeksibnet"},
+				{"translat": "백십다섯", "translit": "baeksibdaseot"},
+				{"translat": "백십여섯", "translit": "baeksibyeoseot"},
+				{"translat": "백십일곱", "translit": "baeksibilgop"},
+				{"translat": "백십여덟", "translit": "baeksibyeodeol"},
+				{"translat": "백십아홉", "translit": "baeksibahop"},
+				{"translat": "백이십", "translit": "baek ee sib"}
+		],
+		"month": [
+			{
+				"translat": "일월 ",
+				"translit": "il-wol"
+			},
+			{
+				"translat": "이월",
+				"translit": "i-wol"
+			},
+			{
+				"translat": "삼월",
+				"translit": "sam-wol"
+			},
+			{
+				"translat": "사월",
+				"translit": "sah-wol"
+			},
+			{
+				"translat": "오월",
+				"translit": "o-wol"
+			},
+			{
+				"translat": "유월",
+				"translit": "yu-wol"
+			},
+			{
+				"translat": "칠월",
+				"translit": "chil-wol"
+			},
+			{
+				"translat": "팔월",
+				"translit": "pal-wol"
+			},
+			{
+				"translat": "구월",
+				"translit": "gu-wol"
+			},
+			{
+				"translat": "시월",
+				"translit": "shi-wol"
+			},
+			{
+				"translat": "십일월",
+				"translit": "shib-il-wol"
+			},
+			{
+				"translat": "십이월",
+				"translit": "shib-i-wol"
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "하나",
+				"translit": "hana"
+			},
+			{
+				"translat": "둘",
+				"translit": "dul"
+			},
+			{
+				"translat": "셋",
+				"translit": "set"
+			}
+		],
+		"description": [
+			{"translat": "그 여자 또는 그 엄마", "translit": "geu yeoja ttoneun geu eomma"},
+			{"translat": "그 소년 또는 그 아들", "translit": "geu sonyeon ttoneun geu adeul"},
+			{"translat": "그 소녀 또는 그 딸", "translit": "geu sonyeo ttoneun geu ttal"}
+		],
+		"objects": [
+			{
+				"translat": "펜",
+				"translit": "pen"
+			},
+			{
+				"translat": "핸드폰",
+				"translit": "hend-pone"
+			},
+			{
+				"translat": "단추",
+				"translit": "dan-chu"
+			},
+			{
+				"translat": "선인장",
+				"translit": "seon-in-jang"
+			},
+			{
+				"translat": "장갑",
+				"translit": "jang-gab"
+			},
+			{
+				"translat": "의자",
+				"translit": "ui-ja"
+			},
+			{
+				"translat": "열쇠",
+				"translit": "yeol-seh"
+			},
+			{
+				"translat": "해먹",
+				"translit": "haem-mog"
+			},
+			{
+				"translat": "깃털",
+				"translit": "gi-tol"
+			}
+		],
+		"affirm": [
+			{
+				"translat": "예",
+				"translit": "ye"
+			},
+			{
+				"translat": "아니요",
+				"translit": "an-ee-yo"
+			}
+		],
+		"side": [
+			{
+				"translat": "왼쪽",
+				"translit": "wen-jok"
+			},
+			{
+				"translat": "오른쪽",
+				"translit": "o-rheun-jok"
+			},
+			{
+				"translat": "양쪽",
+				"translit": "yang-jok"
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "안녕하세요",
+				"translit": "an-yang-ha-se-yo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "괜찮으세요?",
+				"translit": "gwen-chan-eh-se-yo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "아파요?",
+				"translit": "ah-pa-yo"
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "몇 살입니까?",
+				"translit": "meut-sal-im-mikka"
+			}
+		},
+		{
+			"phr": {
+				"translat": "몇 월입니까?",
+				"translit": "meudul-im-mikka"
+			}
+		},
+		{
+			"phr": {
+				"translat": "한 번 더 말해주세요",
+				"translit": "han-bun-duh mal-hae-ju-seyo"
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "눈 감으세요",
+				"translit": "noon-gam-eu-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "눈 뜨세요",
+				"translit": "noon-du-seyo"
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "왼손 펴세요",
+					"translit": "wen-son pyo-seyo"
+				},
+				"l": {
+					"translat": "오른손 펴세요",
+					"translit": "o-rheun-son pyo-seyo"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "왼손 주먹 쥐세요",
+					"translit": "wen-son chu-mok ji-seyo"
+				},
+				"l": {
+					"translat": "오른손 주먹 쥐세요",
+					"translit": "o-rheun-son chu-mok ji-seyo"
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "제 손가락 따라 보세요",
+				"translit": "jeh-song-galak-da-la bo-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "날 보세요",
+				"translit": "nal bo-seyo"
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "내 코 보세요",
+				"translit": "ne-ko bo-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "몇 개입니까?",
+				"translit": "myeoch gae-ib-nikka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "몇 개입니까?",
+				"translit": "myeoch gae-ib-nikka?"
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "웃어보세요",
+				"translit": "oo-suh bo-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "눈 크게 뜨세요",
+				"translit": "noon-ku-geh du-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "눈을 감으세요",
+				"translit": "noon kam oo-seyo"
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "왼팔 올리고 계세요",
+					"translit": "wen-pal oli-ko-keh-seyo"
+				},
+				"l": {
+					"translat": "오른팔 올리고 계세요",
+					"translit": "o-rheun-pal oli-ko-keh-seyo"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "왼팔 움직여 보세요",
+					"translit": "wen-pal oom-jig-kia-bo-seyo"
+				},
+				"l": {
+					"translat": "오른팔 움직여 보세요",
+					"translit": "o-rheun-pal oom-jig-kia-bo-seyo"
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "왼쪽 다리 올리고 계세요",
+					"translit": "wen jok-tadi oli-ko-keh-seyo"
+				},
+				"l": {
+					"translat": "오른쪽 다리 올리고 계세요",
+					"translit": "o-rheun jok-tadi oli-ko-keh-seyo"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "왼쪽 다리 움직여 보세요",
+					"translit": "wen jok-tadi oom-jig-kia-bo-seyo"
+				},
+				"l": {
+					"translat": "오른쪽 다리 움직여 보세요",
+					"translit": "o-rheun jok-tadi oom-jig-kia-bo-seyo"
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": "코 만지세요",
+				"translit": "ko man-ji-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "내 손가락 만지세요 ",
+				"translit": "nae son-ka-lag man-ji-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "위 아래로 움직이세요",
+				"translit": "wi-ah de-doh oom-ji-ki-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "위 아래로 움직이세요",
+				"translit": "wi-ah de-doh oom-ji-ki-seyo"
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "느껴지세요?",
+				"translit": "nuk-kio ji-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "양쪽 느낌이 같나요?",
+				"translit": "yang-jok nuk-kim-ee kat-nayo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "왼쪽, 오른쪽 아니면 양쪽?",
+				"translit": "wen-jok, o-rheun-jok, ani-myun yang-jok"
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "이게 뭐에요?",
+				"translit": "i-ge mo-eh-yo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "그림 설명해보세요 ",
+				"translit": "ku-rim sul-myeong heh-bo-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "읽어 보세요",
+				"translit": "il-ko bo-seyo"
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "반복하세요",
+				"translit": "ban-bok ha-seyo"
+			}
+		},
+		{
+			"phr": {
+				"translat": "따라하세요",
+				"translit": "da-da ha-seyo"
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "감사합니다",
+				"translit": "kam-sa-ham-nida"
+			}
+		},
+		{
+			"phr": {
+				"translat": "다했어요",
+				"translit": "ta-he-seyo"
+			}
+		}
+	]
+}

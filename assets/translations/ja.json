@@ -1,0 +1,874 @@
+{
+	"sol": {
+		"age": [
+			{
+			   "translat":"十",
+			   "translit":"juu"
+			},
+			{
+			   "translat":"十一",
+			   "translit":"juuichi"
+			},
+			{
+			   "translat":"十二",
+			   "translit":"juuni"
+			},
+			{
+				"translat":"十三",
+				"translit":"juusan"
+			 },
+			 {
+				"translat":"十四",
+				"translit":"juushi"
+			 },
+			 {
+				"translat":"十五",
+				"translit":"juugo"
+			 },
+			 {
+				"translat":"十六",
+				"translit":"juuroku"
+			 },
+			 {
+				"translat":"十七",
+				"translit":"juunana"
+			 },
+			 {
+				"translat":"十八",
+				"translit":"juuhachi"
+			 },
+			 {
+				"translat":"十九",
+				"translit":"juukyuu"
+			 },
+			 {
+				"translat":"二十",
+				"translit":"nisen"
+			 },
+			 {
+				"translat":"二十一",
+				"translit":"nijuuichi"
+			 },
+			 {
+				"translat":"二十二",
+				"translit":"nijyuuni"
+			 },
+			 {
+				"translat":"二十三",
+				"translit":"sanjuusan"
+			 },
+			 {
+				"translat":"二十四",
+				"translit":"sanjuushi"
+			 },
+			 {
+				"translat":"二十五",
+				"translit":"sanjuugo"
+			 },
+			 {
+				"translat":"二十六",
+				"translit":"sanjuroku"
+			 },
+			 {
+				"translat":"二十七",
+				"translit":"sanjunana"
+			 },
+			 {
+				"translat":"二十八",
+				"translit":"sanjuuhachi"
+			 },
+			 {
+				"translat":"二十九",
+				"translit":"sanjuukyuu"
+			 },
+			 {
+				"translat":"三十",
+				"translit":"sanjuu"
+			 },
+			 {
+				"translat":"三十一",
+				"translit":"sanjuuichi"
+			 },
+			 {
+				"translat":"三十二",
+				"translit":"sanjuuni"
+			 },
+			 {
+				"translat":"三十三",
+				"translit":"sanjusan"
+			 },
+			 {
+				"translat":"三十四",
+				"translit":"sanjushi"
+			 },
+			 {
+				"translat":"三十五",
+				"translit":"sanjugo"
+			 },
+			 {
+				"translat":"三十六",
+				"translit":"sanjuroku"
+			 },
+			 {
+				"translat":"三十七",
+				"translit":"sanjunana"
+			 },
+			 {
+				"translat":"三十八",
+				"translit":"sanjuuhachi"
+			 },
+			 {
+				"translat":"三十九",
+				"translit":"sanjuukyuu"
+			 },
+			 {
+				"translat":"四十",
+				"translit":"yonjuu"
+			 },
+			 {
+				"translat":"四十一",
+				"translit":"yonjuuichi"
+			 },
+			 {
+				"translat":"四十二",
+				"translit":"yonjuuni"
+			 },
+			 {
+				"translat":"四十三",
+				"translit":"yonsan"
+			 },
+			 {
+				"translat":"四十四",
+				"translit":"yonshi"
+			 },
+			 {
+				"translat":"四十五",
+				"translit":"yongo"
+			 },
+			 {
+				"translat":"四十六",
+				"translit":"yoroku"
+			 },
+			 {
+				"translat":"四十七",
+				"translit":"yonana"
+			 },
+			 {
+				"translat":"四十八",
+				"translit":"yohachi"
+			 },
+			 {
+				"translat":"四十九",
+				"translit":"yokyuu"
+			 },
+			 {
+				"translat":"五十",
+				"translit":"gojuu"
+			 },
+			 {
+				"translat":"五十一",
+				"translit":"gojuuichi"
+			 },
+			 {
+				"translat":"五十二",
+				"translit":"gojuuni"
+			 },
+			 {
+				"translat":"五十三",
+				"translit":"gosan"
+			 },
+			 {
+				"translat":"五十四",
+				"translit":"goshi"
+			 },
+			 {
+				"translat":"五十五",
+				"translit":"gogo"
+			 },
+			 {
+				"translat":"五十六",
+				"translit":"goroku"
+			 },
+			 {
+				"translat":"五十七",
+				"translit":"gonana"
+			 },
+			 {
+				"translat":"五十八",
+				"translit":"gohachi"
+			 },
+			 {
+				"translat":"五十九",
+				"translit":"gokyuu"
+			 },
+			 {
+				"translat":"六十",
+				"translit":"rokjuu"
+			 },
+			 {
+				"translat":"六十一",
+				"translit":"rokjuuichi"
+			 },
+			 {
+				"translat":"六十二",
+				"translit":"rokjuuni"
+			 },
+			 {
+				"translat":"六十三",
+				"translit":"roksan"
+			 },
+			 {
+				"translat":"六十四",
+				"translit":"roshi"
+			 },
+			 {
+				"translat":"六十五",
+				"translit":"rokugo"
+			 },
+			 {
+				"translat":"六十六",
+				"translit":"rokroroku"
+			 },
+			 {
+				"translat":"六十七",
+				"translit":"rokunana"
+			 },
+			 {
+				"translat":"六十八",
+				"translit":"rokuhachi"
+			 },
+			 {
+				"translat":"六十九",
+				"translit":"rokokyuu"
+			 },
+			 {
+				"translat":"七十",
+				"translit":"nanajuu"
+			 },
+			 {
+				"translat":"七十一",
+				"translit":"nanajuuichi"
+			 },
+			 {
+				"translat":"七十二",
+				"translit":"nanajuuni"
+			 },
+			 {
+				"translat":"七十三",
+				"translit":"nasan"
+			 },
+			 {
+				"translat":"七十四",
+				"translit":"nashi"
+			 },
+			 {
+				"translat":"七十五",
+				"translit":"nago"
+			 },
+			 {
+				"translat":"七十六",
+				"translit":"naroku"
+			 },
+			 {
+				"translat":"七十七",
+				"translit":"nanana"
+			 },
+			 {
+				"translat":"七十八",
+				"translit":"nahachi"
+			 },
+			 {
+				"translat":"七十九",
+				"translit":"nakyuu"
+			 },
+			 {
+				"translat":"八十",
+				"translit":"hachijuu"
+			 },
+			 {
+				"translat":"八十一",
+				"translit":"hachijuuichi"
+			 },
+			 {
+				"translat":"八十二",
+				"translit":"hachijuuni"
+			 },
+			 {
+				"translat":"八十三",
+				"translit":"hachisan"
+			 },
+			 {
+				"translat":"八十四",
+				"translit":"hachishi"
+			 },
+			 {
+				"translat":"八十五",
+				"translit":"hachigo"
+			 },
+			 {
+				"translat":"八十六",
+				"translit":"hachiroku"
+			 },
+			 {
+				"translat":"八十七",
+				"translit":"hachinana"
+			 },
+			 {
+				"translat":"八十八",
+				"translit":"hachihaci"
+			 },
+			 {
+				"translat":"八十九",
+				"translit":"hachikyuu"
+			 },
+			 {
+				"translat":"九十",
+				"translit":"kyuujuu"
+			 },
+			 {
+				"translat":"九十一",
+				"translit":"kyuujuuichi"
+			 },
+			 {
+				"translat":"九十二",
+				"translit":"kyuujuuni"
+			 },
+			 {
+				"translat":"九十三",
+				"translit":"kyuusan"
+			 },
+			 {
+				"translat":"九十四",
+				"translit":"kyuushi"
+			 },
+			 {
+				"translat":"九十五",
+				"translit":"kyuugo"
+			 },
+			 {
+				"translat":"九十六",
+				"translit":"kyuuroku"
+			 },
+			 {
+				"translat":"九十七",
+				"translit":"kyunana"
+			 },
+			 {
+				"translat":"九十八",
+				"translit":"kyuhachi"
+			 },
+			 {
+				"translat":"九十九",
+				"translit":"kyukyuu"
+			 },
+			 {
+				"translat":"百",
+				"translit":"hyaku"
+			 },
+			 {
+				"translat":"百一",
+				"translit":"hyakuiichi"
+			 },
+			 {
+				"translat":"百二",
+				"translit":"hyakuni"
+			 },
+			 {
+				"translat":"百三",
+				"translit":"hyakusan"
+			 },
+			 {
+				"translat":"百四",
+				"translit":"hyakushi"
+			 },
+			 {
+				"translat":"百五",
+				"translit":"hyakugo"
+			 },
+			 {
+				"translat":"百六",
+				"translit":"hyakuroku"
+			 },
+			 {
+				"translat":"百七",
+				"translit":"hyakunana"
+			 },
+			 {
+				"translat":"百八",
+				"translit":"hyakuhaci"
+			 },
+			 {
+				"translat":"百九",
+				"translit":"hyakukyuu"
+			 },
+			 {
+				"translat":"百十",
+				"translit":"hyakujyuu"
+			 },
+			 {
+				"translat":"百十一",
+				"translit":"hyakujyuichi"
+			 },
+			 {
+				"translat":"百十二",
+				"translit":"hyakujyuni"
+			 },
+			 {
+				"translat":"百十三",
+				"translit":"hyakusanjuu"
+			 },
+			 {
+				"translat":"百十四",
+				"translit":"hyakusanjuichi"
+			 },
+			 {
+				"translat":"百十五",
+				"translit":"hyakusangojuu"
+			 },
+			 {
+				"translat":"百十六",
+				"translit":"hyakusangoroku"
+			 },
+			 {
+				"translat":"百十七",
+				"translit":"hyakusannana"
+			 },
+			 {
+				"translat":"百十八",
+				"translit":"hyakushuhachi"
+			 },
+			 {
+				"translat":"百十九",
+				"translit":"hyakushukyuu"
+			 },
+			 {
+				"translat":"百二十",
+				"translit":"hyakunijuu"
+			 }
+		 ],
+		"month": [
+			{
+				"translat": "一月",
+				"translit": "ichigatsu"
+			},
+			{
+				"translat": "二月",
+				"translit": "nigatsu"
+			},
+			{
+				"translat": "三月",
+				"translit": "sangatsu"
+			},
+			{
+				"translat": "四月",
+				"translit": "shigatsu"
+			},
+			{
+				"translat": "五月",
+				"translit": "gogatsu"
+			},
+			{
+				"translat": "六月",
+				"translit": "rokugatsu"
+			},
+			{
+				"translat": "七月",
+				"translit": "shichigatsu"
+			},
+			{
+				"translat": "八月",
+				"translit": "hachagatsu"
+			},
+			{
+				"translat": "九月",
+				"translit": "kugatsu"
+			},
+			{
+				"translat": "十月",
+				"translit": "jūgatsu"
+			},
+			{
+				"translat": "十一月",
+				"translit": "jūichigatsu"
+			},
+			{
+				"translat": "十二月",
+				"translit": "jūnigatsu"
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "一",
+				"translit": "ichi"
+			},
+			{
+				"translat": "二",
+				"translit": "ni"
+			},
+			{
+				"translat": "三",
+				"translit": "san"
+			}
+		],
+		"description": [
+			{
+			   "translat":"女性または母親",
+			   "translit":"Josei matawa hahaoya"
+			},
+			{
+			   "translat":"少年または息子",
+			   "translit":"Shōnen matawa musuko"
+			},
+			{
+			   "translat":"少女または娘",
+			   "translit":"Shōjo matawa musume"
+			}
+		 ],
+		"objects": [
+			{
+				"translat": "ペン",
+				"translit": "pen"
+			},
+			{
+				"translat": "携帯電話",
+				"translit": "keitai denwa"
+			},
+			{
+				"translat": "ボタン",
+				"translit": "botan"
+			},
+			{
+				"translat": "カクタス",
+				"translit": "kakutasu"
+			},
+			{
+				"translat": "グローブ",
+				"translit": "gurōbu"
+			},
+			{
+				"translat": "椅子",
+				"translit": "isu"
+			},
+			{
+				"translat": "鍵",
+				"translit": "kagi"
+			},
+			{
+				"translat": "ハンモック",
+				"translit": "hanmokku"
+			},
+			{
+				"translat": "羽 or フェザー",
+				"translit": "hane or fezā"
+			}
+		],
+		"affirm": [
+			{
+				"translat": "はい",
+				"translit": "hai"
+			},
+			{
+				"translat": "いいえ",
+				"translit": "iie"
+			}
+		],
+		"side": [
+			{
+				"translat": "左",
+				"translit": "hidari"
+			},
+			{
+				"translat": "右",
+				"translit": "migi"
+			},
+			{
+				"translat": "両方",
+				"translit": "ryōhō"
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "こんにちは",
+				"translit": "kon'nichiwa"
+			}
+		},
+		{
+			"phr": {
+				"translat": "お元気ですか？",
+				"translit": "ogenki desu ka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "苦しいですか？",
+				"translit": "kurushīdesu ka?"
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "何歳ですか？",
+				"translit": "nan-saidesu ka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "何月ですか？",
+				"translit": "nangatsudesu ka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "もう一度ゆっくり言ってください",
+				"translit": "mōichido yukkuri itte kudasai"
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "目を閉じて",
+				"translit": "mewotojite"
+			}
+		},
+		{
+			"phr": {
+				"translat": "目を開けて",
+				"translit": "me o akete"
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "左手を開いてください",
+					"translit": "hidarite wo hiraite kudasai"
+				},
+				"l": {
+					"translat": "右手を開きます。",
+					"translit": "migite wo hiraite kudasai"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "左手を閉じてください",
+					"translit": "hidari te wo tojite kudasai"
+				},
+				"l": {
+					"translat": "右手を閉じてください",
+					"translit": "migite wo togjite kudasai"
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "私の指に従ってください",
+				"translit": "watashi no yubi wo mite kudasai"
+			}
+		},
+		{
+			"phr": {
+				"translat": "私を見て",
+				"translit": "watashiwomite"
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "私の鼻を見てください",
+				"translit": "watashi no hana o mitekudasai"
+			}
+		},
+		{
+			"phr": {
+				"translat": "指は何本?",
+				"translit": "yubi wa nanhon?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "何本の指が見えますか?",
+				"translit": "nanhon no yubi ga miemasu ka?"
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "歯を見せて",
+				"translit": "ha o misete"
+			}
+		},
+		{
+			"phr": {
+				"translat": "眉を持ち上げてください",
+				"translit": "mayu o mochiageru"
+			}
+		},
+		{
+			"phr": {
+				"translat": "目を閉じて",
+				"translit": "mewotojite"
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "左腕を10秒間持ち上げてください",
+					"translit": "hidariude o 10-byōkan mochiagete kudasai"
+				},
+				"l": {
+					"translat": "右腕を10秒間持ち上げます",
+					"translit": "migiude o 10-byōkan mochiagemasu"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "左腕を動かせますか？",
+					"translit": "hidariude o ugokasemasu ka?"
+				},
+				"l": {
+					"translat": "右腕を動かせますか？",
+					"translit": "migiude o ugokasemasu ka?"
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "左足を5秒間持ち上げてください",
+					"translit": "hidariashi o 5-byōkan mochiagetekudasai"
+				},
+				"l": {
+					"translat": "右足を5秒間持ち上げてください",
+					"translit": "migiashi o 5-byōkan mochiagete kudasai"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "左足を動かせますか？",
+					"translit": "hidariashi o ugokasemasu ka?"
+				},
+				"l": {
+					"translat": "右足を動かせますか？",
+					"translit": "migiashi o ugokasemasu ka?"
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": "指で鼻を触ってください",
+				"translit": "yubi de hana wo sawatte kudasai"
+			}
+		},
+		{
+			"phr": {
+				"translat": "私の指を触ってください",
+				"translit": "watashi no yubi wo sawatte kudasai"
+			}
+		},
+		{
+			"phr": {
+				"translat": "かかとをすねに当ててから、上下にスライドしてください",
+				"translit": "kakato o sune ni atete kara, jōge ni suraido sa semasu"
+			}
+		},
+		{
+			"phr": {
+				"translat": "上げて 下げてください",
+				"translit": "agete sagete kudasai"
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "あなたはこれを感じますか？",
+				"translit": "anata wa kore o kanjimasu ka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "どちらも同じように感じますか？",
+				"translit": "dochira mo onajiyōni kanjimasu ka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "左、右、またはその両方に感じますか",
+				"translit": "hidari, migi, matawa sono ryōhō ni kanjimasuka?"
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "これは何ですか？",
+				"translit": "korehanandesuka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "この写真を説明してください",
+				"translit": "kono shashin o setsumei shite kudasai"
+			}
+		},
+		{
+			"phr": {
+				"translat": "これを読んでください",
+				"translit": "kore wo yonde kudasai"
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "繰り返す",
+				"translit": "kurikaeshite kudasai"
+			}
+		},
+		{
+			"phr": {
+				"translat": "私の言ったことを繰り返してください",
+				"translit": "watashi no itta koto wo kurikaeshite kudasai"
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "ありがとうございました",
+				"translit": "arigatōgozaimashita"
+			}
+		},
+		{
+			"phr": {
+				"translat": "さようなら",
+				"translit": "sayōnara"
+			}
+		}
+	]
+}

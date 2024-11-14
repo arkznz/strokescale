@@ -1,0 +1,532 @@
+{
+	"sol": {
+		"age": [
+			{"translat": "عشرة", "translit": "'ashara"},
+			{"translat": "أحد عشر", "translit": "ahad 'ashar"},
+			{"translat": "اثنا عشر", "translit": "ithna 'ashar"},
+			{"translat": "ثلاثة عشر", "translit": "thalatha 'ashar"},
+			{"translat": "أربعة عشر", "translit": "arba'a 'ashar"},
+			{"translat": "خمسة عشر", "translit": "khamsa 'ashar"},
+			{"translat": "ستة عشر", "translit": "sitta 'ashar"},
+			{"translat": "سبعة عشر", "translit": "sab'a 'ashar"},
+			{"translat": "ثمانية عشر", "translit": "thamania 'ashar"},
+			{"translat": "تسعة عشر", "translit": "tis'a 'ashar"},
+			{"translat": "عشرون", "translit": "'ishrun"},
+			{"translat": "واحد و عشرون", "translit": "wahid wa 'ishrun"},
+			{"translat": "اثنان و عشرون", "translit": "ithnan wa 'ishrun"},
+			{"translat": "ثلاثة و عشرون", "translit": "thalatha wa 'ishrun"},
+			{"translat": "أربعة و عشرون", "translit": "arba'a wa 'ishrun"},
+			{"translat": "خمسة و عشرون", "translit": "khamsa wa 'ishrun"},
+			{"translat": "ستة و عشرون", "translit": "sitta wa 'ishrun"},
+			{"translat": "سبعة و عشرون", "translit": "sab'a wa 'ishrun"},
+			{"translat": "ثمانية و عشرون", "translit": "thamania wa 'ishrun"},
+			{"translat": "تسعة و عشرون", "translit": "tis'a wa 'ishrun"},
+			{"translat": "ثلاثون", "translit": "thalathun"},
+			{"translat": "واحد و ثلاثون", "translit": "wahid wa thalathun"},
+			{"translat": "اثنان و ثلاثون", "translit": "ithnan wa thalathun"},
+			{"translat": "ثلاثة و ثلاثون", "translit": "thalatha wa thalathun"},
+			{"translat": "أربعة و ثلاثون", "translit": "arba'a wa thalathun"},
+			{"translat": "خمسة و ثلاثون", "translit": "khamsa wa thalathun"},
+			{"translat": "ستة و ثلاثون", "translit": "sitta wa thalathun"},
+			{"translat": "سبعة و ثلاثون", "translit": "sab'a wa thalathun"},
+			{"translat": "ثمانية و ثلاثون", "translit": "thamania wa thalathun"},
+			{"translat": "تسعة و ثلاثون", "translit": "tis'a wa thalathun"},
+			{"translat": "أربعون", "translit": "arba'un"},
+			{"translat": "واحد و أربعون", "translit": "wahid wa arba'un"},
+			{"translat": "اثنان و أربعون", "translit": "ithnan wa arba'un"},
+			{"translat": "ثلاثة و أربعون", "translit": "thalatha wa arba'un"},
+			{"translat": "أربعة و أربعون", "translit": "arba'a wa arba'un"},
+			{"translat": "خمسة و أربعون", "translit": "khamsa wa arba'un"},
+			{"translat": "ستة و أربعون", "translit": "sitta wa arba'un"},
+			{"translat": "سبعة و أربعون", "translit": "sab'a wa arba'un"},
+			{"translat": "ثمانية و أربعون", "translit": "thamania wa arba'un"},
+			{"translat": "تسعة و أربعون", "translit": "tis'a wa arba'un"},
+			{"translat": "خمسون", "translit": "khamsun"},
+			{"translat": "واحد و خمسون", "translit": "wahid wa khamsun"},
+			{"translat": "اثنان و خمسون", "translit": "ithnan wa khamsun"},
+			{"translat": "ثلاثة و خمسون", "translit": "thalatha wa khamsun"},
+			{"translat": "أربعة و خمسون", "translit": "arba'a wa khamsun"},
+			{"translat": "خمسة و خمسون", "translit": "khamsa wa khamsun"},
+			{"translat": "ستة و خمسون", "translit": "sitta wa khamsun"},
+			{"translat": "سبعة و خمسون", "translit": "sab'a wa khamsun"},
+			{"translat": "ثمانية و خمسون", "translit": "thamania wa khamsun"},
+			{"translat": "تسعة و خمسون", "translit": "tis'a wa khamsun"},
+			{"translat": "ستون", "translit": "sittun"},
+			{"translat": "واحد و ستون", "translit": "wahid wa sittun"},
+			{"translat": "اثنان و ستون", "translit": "ithnan wa sittun"},
+			{"translat": "ثلاثة و ستون", "translit": "thalatha wa sittun"},
+			{"translat": "أربعة و ستون", "translit": "arba'a wa sittun"},
+			{"translat": "خمسة و ستون", "translit": "khamsa wa sittun"},
+			{"translat": "ستة و ستون", "translit": "sitta wa sittun"},
+			{"translat": "سبعة و ستون", "translit": "sab'a wa sittun"},
+			{"translat": "ثمانية و ستون", "translit": "thamania wa sittun"},
+			{"translat": "تسعة و ستون", "translit": "tis'a wa sittun"},
+			{"translat": "سبعون", "translit": "sab'un"},
+			{"translat": "واحد و سبعون", "translit": "wahid wa sab'un"},
+			{"translat": "اثنان و سبعون", "translit": "ithnan wa sab'un"},
+			{"translat": "ثلاثة و سبعون", "translit": "thalatha wa sab'un"},
+			{"translat": "أربعة و سبعون", "translit": "arba'a wa sab'un"},
+			{"translat": "خمسة و سبعون", "translit": "khamsa wa sab'un"},
+			{"translat": "ستة و سبعون", "translit": "sitta wa sab'un"},
+			{"translat": "سبعة و سبعون", "translit": "sab'a wa sab'un"},
+			{"translat": "ثمانية و سبعون", "translit": "thamania wa sab'un"},
+			{"translat": "تسعة و سبعون", "translit": "tis'a wa sab'un"},
+			{"translat": "ثمانون", "translit": "thamanun"},
+			{"translat": "واحد و ثمانون", "translit": "wahid wa thamanun"},
+			{"translat": "اثنان و ثمانون", "translit": "ithnan wa thamanun"},
+			{"translat": "ثلاثة و ثمانون", "translit": "thalatha wa thamanun"},
+			{"translat": "أربعة و ثمانون", "translit": "arba'a wa thamanun"},
+			{"translat": "خمسة و ثمانون", "translit": "khamsa wa thamanun"},
+			{"translat": "ستة و ثمانون", "translit": "sitta wa thamanun"},
+			{"translat": "سبعة و ثمانون", "translit": "sab'a wa thamanun"},
+			{"translat": "ثمانية و ثمانون", "translit": "thamania wa thamanun"},
+			{"translat": "تسعة و ثمانون", "translit": "tis'a wa thamanun"},
+			{"translat": "تسعون", "translit": "tis'un"},
+			{"translat": "واحد و تسعون", "translit": "wahid wa tis'un"},
+			{"translat": "اثنان و تسعون", "translit": "ithnan wa tis'un"},
+			{"translat": "ثلاثة و تسعون", "translit": "thalatha wa tis'un"},
+			{"translat": "أربعة و تسعون", "translit": "arba'a wa tis'un"},
+			{"translat": "خمسة و تسعون", "translit": "khamsa wa tis'un"},
+			{"translat": "ستة و تسعون", "translit": "sitta wa tis'un"},
+			{"translat": "سبعة و تسعون", "translit": "sab'a wa tis'un"},
+			{"translat": "ثمانية و تسعون", "translit": "thamania wa tis'un"},
+			{"translat": "تسعة و تسعون", "translit": "tis'a wa tis'un"},
+			{"translat": "مائة", "translit": "mi'a"},
+			{"translat": "مائة و واحد", "translit": "mi'a wa wahid"},
+			{"translat": "مائة و اثنان", "translit": "mi'a wa ithnan"},
+			{"translat": "مائة و ثلاثة", "translit": "mi'a wa thalatha"},
+			{"translat": "مائة و أربعة", "translit": "mi'a wa arba'a"},
+			{"translat": "مائة و خمسة", "translit": "mi'a wa khamsa"},
+			{"translat": "مائة و ستة", "translit": "mi'a wa sitta"},
+			{"translat": "مائة و سبعة", "translit": "mi'a wa sab'a"},
+			{"translat": "مائة و ثمانية", "translit": "mi'a wa thamania"},
+			{"translat": "مائة و تسعة", "translit": "mi'a wa tis'a"},
+			{"translat": "مائة و عشرة", "translit": "mi'a wa 'ashara"},
+			{"translat": "مائة و أحد عشر", "translit": "mi'a wa ahad 'ashar"},
+			{"translat": "مائة و اثنا عشر", "translit": "mi'a wa ithna 'ashar"},
+			{"translat": "مائة و ثلاثة عشر", "translit": "mi'a wa thalatha 'ashar"},
+			{"translat": "مائة و أربعة عشر", "translit": "mi'a wa arba'a 'ashar"},
+			{"translat": "مائة و خمسة عشر", "translit": "mi'a wa khamsa 'ashar"},
+			{"translat": "مائة و ستة عشر", "translit": "mi'a wa sitta 'ashar"},
+			{"translat": "مائة و سبعة عشر", "translit": "mi'a wa sab'a 'ashar"},
+			{"translat": "مائة و ثمانية عشر", "translit": "mi'a wa thamania 'ashar"},
+			{"translat": "مائة و تسعة عشر", "translit": "mi'a wa tis'a 'ashar"},
+			{"translat": "مائة و عشرون", "translit": "mi'a wa 'ishrun"}
+		],
+		"month": [
+			{
+				"translat": "كانون الثاني",
+				"translit": "kanun althaani"
+			},
+			{
+				"translat": "شهر فبراير",
+				"translit": "shahr fibrayir"
+			},
+			{
+				"translat": "مارس",
+				"translit": "maris"
+			},
+			{
+				"translat": "أبريل",
+				"translit": "'abril"
+			},
+			{
+				"translat": "قد",
+				"translit": "qad"
+			},
+			{
+				"translat": "يونيو",
+				"translit": "yuniu"
+			},
+			{
+				"translat": "تموز",
+				"translit": "tamuwz"
+			},
+			{
+				"translat": "شهر اغسطس",
+				"translit": "shahr aghustus"
+			},
+			{
+				"translat": "سبتمبر",
+				"translit": "sibtambar"
+			},
+			{
+				"translat": "اكتوبر",
+				"translit": "aktubar"
+			},
+			{
+				"translat": "شهر نوفمبر",
+				"translit": "shahr nufimbir"
+			},
+			{
+				"translat": "ديسمبر",
+				"translit": "disambir"
+			}
+		],
+		"fingercount": [
+			{
+				"translat": "واحد",
+				"translit": "wahid"
+			},
+			{
+				"translat": "اثنين",
+				"translit": "aithnayn"
+			},
+			{
+				"translat": "ثلاثة",
+				"translit": "thalatha"
+			}
+		],
+		"description": [
+			{"translat": "المرأة أو الأم", "translit": "almar'atu aw al'um"},
+			{"translat": "الولد أو الابن", "translit": "alwaladu aw alibn"},
+			{"translat": "البنت أو الابنة", "translit": "albintu aw alibna"}
+		  ],
+		"objects": [
+			{
+				"translat": "قلم",
+				"translit": "qalam"
+			},
+			{
+				"translat": "الهاتف الخلوي",
+				"translit": "alhatif alkhalawiu"
+			},
+			{
+				"translat": "زر",
+				"translit": "zurun"
+			},
+			{
+				"translat": "صبار",
+				"translit": "sabaar"
+			},
+			{
+				"translat": "قفاز",
+				"translit": "qufaz"
+			},
+			{
+				"translat": "كرسي",
+				"translit": "kursiun"
+			},
+			{
+				"translat": "مفتاح الباب",
+				"translit": "miftah albab"
+			},
+			{
+				"translat": "أرجوحة",
+				"translit": "'urjuha"
+			},
+			{
+				"translat": "ريشة",
+				"translit": "risha"
+			}
+		],
+		"affirm": [
+			{
+				"translat": "نعم",
+				"translit": "naeam"
+			},
+			{
+				"translat": "لا",
+				"translit": "la"
+			}
+		],
+		"side": [
+			{
+				"translat": "اليسار",
+				"translit": "alyasar"
+			},
+			{
+				"translat": "حق",
+				"translit": "haqun"
+			},
+			{
+				"translat": "على حد سواء",
+				"translit": "ealaa hadin sawa'"
+			}
+		]
+	},
+	"1a": [
+		{
+			"phr": {
+				"translat": "أهلا",
+				"translit": "'ahlan"
+			}
+		},
+		{
+			"phr": {
+				"translat": "كيف حالك؟",
+				"translit": "kayf halika?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "هل تشعر بالألم؟",
+				"translit": "hal tasheur bial'almi?"
+			}
+		}
+	],
+	"1b": [
+		{
+			"phr": {
+				"translat": "كم عمرك؟",
+				"translit": "kam eumarka?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "أي شهر هذا؟",
+				"translit": "'ayu shahr hadha?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "من فضلك قل ببطء مرة أخرى",
+				"translit": "min fadlik qul bibut' maratan 'ukhraa"
+			}
+		}
+	],
+	"1c": [
+		{
+			"phr": {
+				"translat": "اغلق عينيك",
+				"translit": "aghlaq eaynayk"
+			}
+		},
+		{
+			"phr": {
+				"translat": "افتح عينيك",
+				"translit": "aftah eaynayk"
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "افتح يدك اليسرى.",
+					"translit": "aftah yadak alyusraa."
+				},
+				"l": {
+					"translat": "افتح يدك اليمنى.",
+					"translit": "aftah yadak alyumnaa."
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "أغلق يدك اليسرى.",
+					"translit": "'aghliq yadik alyusraa."
+				},
+				"l": {
+					"translat": "أغلق يدك اليمنى.",
+					"translit": "'aghliq yadik alyumnaa."
+				}
+			}
+		}
+	],
+	"2": [
+		{
+			"phr": {
+				"translat": "اتبع إصبعي",
+				"translit": "atabie 'iisbaeay"
+			}
+		},
+		{
+			"phr": {
+				"translat": "انظر إلي",
+				"translit": "anzur 'iilaya"
+			}
+		}
+	],
+	"3": [
+		{
+			"phr": {
+				"translat": "انظر إلى أنفي",
+				"translit": "anzur 'iilaa 'anfi"
+			}
+		},
+		{
+			"phr": {
+				"translat": "كم عدد الاصابع؟",
+				"translit": "kam eadad alasabiei?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "كم عدد الأصابع التي تراها؟",
+				"translit": "kam eadad al'asabie alati tiraha?"
+			}
+		}
+	],
+	"4": [
+		{
+			"phr": {
+				"translat": "أرني أسنانك",
+				"translit": "'arni 'asnanak"
+			}
+		},
+		{
+			"phr": {
+				"translat": "ارفعي حاجبيك",
+				"translit": "arfaei hajibayk"
+			}
+		},
+		{
+			"phr": {
+				"translat": "اغلق عينيك",
+				"translit": "aghlaq eaynayk"
+			}
+		}
+	],
+	"5a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "ارفع ذراعك الأيسر لمدة عشر ثوان",
+					"translit": "arfae dhiraeak al'aysar limudat eashar thawan"
+				},
+				"l": {
+					"translat": "ارفع ذراعك الأيمن لمدة عشر ثوان",
+					"translit": "arfae dhiraeak al'ayman limudat eashr thawan"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "هل يمكنك تحريك ذراعك اليسرى على الإطلاق؟",
+					"translit": "hal yumkinuk tahrik dhiraeik alyusraa ealaa al'iitlaqi?"
+				},
+				"l": {
+					"translat": "هل يمكنك تحريك ذراعك الأيمن على الإطلاق؟",
+					"translit": "hal yumkinuk tahrik dhiraeik al'ayman ealaa al'iitlaqi?"
+				}
+			}
+		}
+	],
+	"6a": [
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "ارفع رجلك اليسرى لمدة خمس ثوان",
+					"translit": "arfae rajulak alyusraa limudat khams thawan"
+				},
+				"l": {
+					"translat": "ارفع رجلك اليمنى لمدة خمس ثوان",
+					"translit": "arfae rajulak alyumnaa limudat khams thawan"
+				}
+			}
+		},
+		{
+			"opt": "paretic_hand",
+			"phr": {
+				"r": {
+					"translat": "هل يمكنك تحريك رجلك اليسرى على الإطلاق؟",
+					"translit": "hal yumkinuk tahrik rajulik alyusraa ealaa al'iitlaqi?"
+				},
+				"l": {
+					"translat": "هل يمكنك تحريك رجلك اليمنى على الإطلاق؟",
+					"translit": "hal yumkinuk tahrik rajulik alyumnaa ealaa al'iitlaqi?"
+				}
+			}
+		}
+	],
+	"7": [
+		{
+			"phr": {
+				"translat": "تلمس أنفك",
+				"translit": "talmis 'anfuk"
+			}
+		},
+		{
+			"phr": {
+				"translat": "المس إصبعي",
+				"translit": "almasu 'iisbaeay"
+			}
+		},
+		{
+			"phr": {
+				"translat": "ضع كعبك على قصبتك ثم انزلق لأعلى ولأسفل",
+				"translit": "dae kaebak ealaa qasabatik thuma anzalaq li'aelaa wali'asfal"
+			}
+		},
+		{
+			"phr": {
+				"translat": "إذهب للأعلى وللأسفل",
+				"translit": "'iidhhab lil'aelaa walil'asfal"
+			}
+		}
+	],
+	"8": [
+		{
+			"phr": {
+				"translat": "هل تشعر بهذا؟",
+				"translit": "hal tasheur bihadha?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "هل تشعر بالشيء نفسه على كلا الجانبين؟",
+				"translit": "hal tasheur bialshay' nafsih ealaa kila aljanibayni?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "يسار ، يمين ، أم كلاهما؟",
+				"translit": "yasar , yamin , 'umu kilahuma?"
+			}
+		}
+	],
+	"9": [
+		{
+			"phr": {
+				"translat": "ما هذا؟",
+				"translit": "ma hadha?"
+			}
+		},
+		{
+			"phr": {
+				"translat": "صف هذه الصورة",
+				"translit": "safu hadhih alsuwra"
+			}
+		},
+		{
+			"phr": {
+				"translat": "اقرأ هذه الكلمات",
+				"translit": "aiqra hadhih alkalimat"
+			}
+		}
+	],
+	"10": [
+		{
+			"phr": {
+				"translat": "يكرر",
+				"translit": "yukarir"
+			}
+		},
+		{
+			"phr": {
+				"translat": "كرر من بعدي",
+				"translit": "karir min baedi"
+			}
+		}
+	],
+	"11": [
+		{
+			"phr": {
+				"translat": "شكرا لك",
+				"translit": "shukran lak"
+			}
+		},
+		{
+			"phr": {
+				"translat": "مع السلامة",
+				"translit": "mae alsalama"
+			}
+		}
+	]
+}
