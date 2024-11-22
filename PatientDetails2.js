@@ -1,4 +1,4 @@
-import { StyleSheet, FlatList, Text, View, Pressable, Image } from 'react-native';
+import { StyleSheet, FlatList, Text, View, Pressable, Image, ScrollView} from 'react-native';
 import React, {useState} from 'react';
 import langs from './langLookup.json';
 import {langLookupMap} from './langLookup.js';
@@ -40,6 +40,7 @@ export default function PatientLanguageScreen(props) {
     const langList =
         <View style={styles.container}>
             <FlatList
+                style= {styles.flatList}
                 data={sortedLangsArray}
                 keyExtractor={item => item.langCode}
                 renderItem={({item}) =>
@@ -67,7 +68,8 @@ export default function PatientLanguageScreen(props) {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        paddingTop: 22
+        paddingTop: 22, 
+        height: 100
     },
     itemContainer: {
         height: 60,
@@ -106,5 +108,10 @@ const styles = StyleSheet.create({
         borderRadius: 10,
         marginRight: 10,
         marginTop: 3
+    },
+    flatList: {
+        height: 100, 
+        borderWidth: 1,
+        flex: 1
     }
 });

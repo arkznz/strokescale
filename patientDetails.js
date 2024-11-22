@@ -22,80 +22,98 @@ export default function PatientDetailsScreen({route, navigation}) {
     const patientDetails =
         <View style={styles.container}>
             <Text style={styles.title}>Patient Details</Text>
-            <View style={styles.pickerContainer}>
-                <Text style={styles.label}>Patient Language</Text>
-                <Pressable style={styles.itemContainer} onPress={() => navigation.navigate("Language")}>
-                <View style={styles.buttonContainer}>
-                    <Image source={langFlag} style={styles.flagIcon} />
-                    <Text style={styles.item}>{langName}</Text>
+            <View style= {styles.pickersContainer}>
+                <View style={styles.pickerContainer}>
+                    <Pressable style={styles.itemContainer} onPress={() => navigation.navigate("Language")}>
+                    <View style={styles.buttonContainer}>
+                        <Image source={langFlag} style={styles.flagIcon} />
+                        <Text style={styles.langText}>{langName}</Text>
+                    </View>
+                    </Pressable>
                 </View>
-                </Pressable>
-            </View>
-            <View style={styles.pickerContainer}>
-                <Text style={styles.label}>Patient Gender</Text>
-                <Picker
-                    style={styles.picker}
-                    selectedValue={gender}
-                    onValueChange={(itemValue, itemIndex) => setGender(itemValue)}
-                >
-                    <Picker.Item label="Female" value="Female" />
-                    <Picker.Item label="Male" value="Male" />
-                    <Picker.Item label="Other" value="Other" />
-                </Picker>
-            </View>
-            <View style={styles.pickerContainer}>
-                <Text style={styles.label}>Paretic Side</Text>
-                <Picker
-                    style={styles.picker}
-                    selectedValue={pareticHand}
-                    onValueChange={(itemValue, itemIndex) => setPareticHand(itemValue)}
-                >
-                    <Picker.Item label="Left" value="Left" />
-                    <Picker.Item label="Right" value="Right" />
-                    <Picker.Item label="Other" value="Left" />
-                </Picker>
-            </View>
-            <View style={styles.pickerContainer}>
-                <Text style={styles.label}>Patient Age</Text>
-                <Picker
-                    style={styles.picker}
-                    selectedValue={age}
-                    onValueChange={(itemValue, itemIndex) => setAge(itemValue)}
-                >
-                    {ages.map((age) => (
-                        <Picker.Item label={age.toString()} value={age} key={age} />
-                    ))}
-                </Picker>
-            </View>
-            <View style={styles.pickerContainer}>
-                <Pressable style={styles.itemContainer} onPress={() => goToPatientQuestions()}>
-                <View style={styles.buttonContainer}>
-                    <Text >Done</Text>
+                <View style={styles.labelContainer}>
+                    <Text style={styles.label}>Gender</Text>
+                    <Text style={styles.label}>Paretic Side</Text>
+                    <Text style={styles.label}>Age</Text>
                 </View>
-                </Pressable>
+                <View style={styles.pickerContainer}>
+                    <Picker
+                        style={styles.picker}
+                        selectedValue={gender}
+                        onValueChange={(itemValue, itemIndex) => setGender(itemValue)}
+                    >
+                        <Picker.Item label="Female" value="Female" />
+                        <Picker.Item label="Male" value="Male" />
+                        <Picker.Item label="Other" value="Other" />
+                    </Picker>
+                </View>
+                <View style={styles.pickerContainer}>
+                    <Picker
+                        style={styles.picker}
+                        selectedValue={pareticHand}
+                        onValueChange={(itemValue, itemIndex) => setPareticHand(itemValue)}
+                    >
+                        <Picker.Item label="Left" value="Left" />
+                        <Picker.Item label="Right" value="Right" />
+                        <Picker.Item label="Other" value="Left" />
+                    </Picker>
+                </View>
+                <View style={styles.pickerContainer}>
+                    <Picker
+                        style={styles.picker}
+                        selectedValue={age}
+                        onValueChange={(itemValue, itemIndex) => setAge(itemValue)}
+                    >
+                        {ages.map((age) => (
+                            <Picker.Item label={age.toString()} value={age} key={age} />
+                        ))}
+                    </Picker>
+                </View>
             </View>
+            <View style={styles.spacer} />
+            <Pressable style={styles.doneContainer} onPress={() => goToPatientQuestions()}>
+                <Text >Done</Text>
+            </Pressable>
         </View>
     return patientDetails;
 };
 const styles = StyleSheet.create({
     container: {
+        paddingTop: 22,
         flex: 1,
-        paddingTop: 22
+        justifyContent: 'flex-start'
+    },
+    pickersContainer: {
+        height: 240
+    },
+    labelContainer: { 
+        flexDirection: 'row', 
+        justifyContent: 'center', 
+        alignItems: 'center', 
     },
     itemContainer: {
-        width: 200,
-        height: 50,
+        height: 60,
         borderRadius: 5,
-        borderWidth: 1,
-        borderColor: '#ccc',
+        borderBottomWidth: 1,
+        borderBottomColor: '#ccc',
         marginHorizontal: 10,
         paddingVertical: 20,
         paddingHorizontal: 20,
         justifyContent: 'center'
     },
+    spacer: { flex: 1, },
+    doneContainer: {
+        height: 80,
+        borderRadius: 30,
+        backgroundColor: 'deepskyblue',
+        padding: 30,
+        alignItems: 'center',
+        width: '90%'
+    },
     buttonContainer: {
         flexDirection: 'row',
         justifyContent: 'space-between',
+        alignItems: 'center'
     },
     title: {
         fontSize: 32,
@@ -107,17 +125,10 @@ const styles = StyleSheet.create({
         alignSelf: 'flex-end',
         marginRight: 5
     },
-    item: {
-        color: 'black',
-        alignSelf: 'flex-start',
-        alignItems: 'center',
-        marginTop: 3
+    pickerContainer: {
+        flexDirection: 'colunn',
+        alignItems: 'left',
     },
-    // pickerContainer: {
-    //     flexDirection: 'colunn',
-    //     alignItems: 'left',
-    //     marginVertical: 10,
-    // },
     // picker: {
     //     width: 200,
     //     height: 50,
@@ -125,16 +136,20 @@ const styles = StyleSheet.create({
     //     borderWidth: 1,
     //     borderColor: '#ccc',
     // },
+    langText: { 
+        flex: 1, 
+        textAlign: 'center'
+    },
     label: {
         fontSize: 12,
         fontWeight: 'bold',
         color: '#666',
         marginTop: 5,
-        marginRight: 10,
+        marginHorizontal: 30
     },
     flagIcon: {
-        width: 17,
-        height: 17,
+        width: 22,
+        height: 22,
         borderRadius: 10,
         marginRight: 10,
         marginTop: 3
