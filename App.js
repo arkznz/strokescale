@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import PatientLanguageScreen from './patientLanguage';
 import PatientDetailsScreen from './patientDetails';
-import PatientDetails2Screen from './PatientDetails2';
+import PatientInfoScreen from './PatientInfo';
 import PatientQuestionsScreen from './patientQuestions';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
@@ -16,7 +16,7 @@ export default function App() {
         screenOptions={{
           headerShown: false
         }}>
-        <Stack.Screen name="Test Details" component={PatientDetails2Screen} />
+        <Stack.Screen name="Info" component={PatientInfoScreen} />
         <Stack.Screen name="Language" component={PatientLanguageScreen} />
         <Stack.Screen name="Details" component={PatientDetailsScreen} />
         <Stack.Screen name="Questions" component={PatientQuestionsScreen} />
