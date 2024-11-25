@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { View, Text, StyleSheet, Pressable, Image, FlatList, Modal } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import {Picker} from '@react-native-picker/picker';
-import { BottomSheet } from 'react-native-gesture-handler';
+//import { BottomSheet } from 'react-native-gesture-handler';
 
 
 const Card = ({ title, content }) => {

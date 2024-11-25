@@ -3,19 +3,28 @@ import React, {useState} from 'react';
 import langs from './langLookup.json';
 import {langLookupMap} from './langLookup.js';
 import {Picker} from '@react-native-picker/picker';
+import WheelPicker from '@quidone/react-native-wheel-picker';
 
 
 const langsArray = Object.entries(langLookupMap)
 .filter(([langCode, values]) => values.translatDict !== undefined)
 .map(([langCode, values]) => ({ langCode, ...values }))
 
+const ageArray = [...Array(100).keys()].map((index) => ({
+    value: index,
+    label: index.toString(),
+  }))
+
 export default function PatientInfoScreen(props) {
     const [pinnedLang, setPinnedLang] = useState('mx');
     const [selectedLang, setSelectedLang] = useState('mx');
     const [showLangs, setShowLangs] = useState(false);
     const [showGenders, setShowGenders] = useState(false);
+    const [selectedPareticSide, setSelectedPareticSide] = useState('Left');
+    const [showPareticSide, setShowPareticSide] = useState(false);
     const [favoriteLangs, setFavoriteLangs] = useState([]);
     const [selectedGender, setSelectedGender] = useState('Female');
+    const [selectedAge, setSelectedAge] = useState(50);
     const handleFavorite = (langCode) => {
         if (favoriteLangs.includes(langCode)) {
             setFavoriteLangs(favoriteLangs.filter((i) => i !== langCode));
@@ -46,6 +55,7 @@ export default function PatientInfoScreen(props) {
         else {
             setShowLangs(true);
             setShowGenders(false);
+            setShowPareticSide(false);
         }
         // props.navigation.navigate("Details",
         // {
@@ -64,9 +74,26 @@ export default function PatientInfoScreen(props) {
         else {
             setShowLangs(false);
             setShowGenders(true);
+            setShowPareticSide(false);
         }
     };
-
+    const handlePareticSideSelect = (side) => {
+        if (showPareticSide === true) {
+            setSelectedPareticSide(side);
+            setShowPareticSide(false);
+        }
+        else {
+            setShowLangs(false);
+            setShowGenders(false);
+            setShowPareticSide(true);
+        }
+    };
+    const handleAgeSelect = (age) => {
+        setSelectedAge(age);
+        setShowPareticSide(false);
+        setShowLangs(false);
+        setShowGenders(false);
+    };
     const langList =
         <View style={styles.container}>
             <Text style={styles.title}>Patient Info</Text>
@@ -115,6 +142,24 @@ export default function PatientInfoScreen(props) {
                         </View>
                     </Pressable>
                 }
+            />
+            <Text style={styles.label}>Patient Paretic Side</Text>
+            <FlatList
+                style={styles.flatList}
+                data={['Left', 'Right', 'Other']}
+                renderItem={({item}) =>
+                    <Pressable style={(item == selectedPareticSide || showPareticSide) ? styles.showLangContainer : styles.hideLangContainer} onPress={() => handlePareticSideSelect(item)}>
+                        <View style={styles.buttonContainer}>
+                            <Text style={styles.item}>{item}</Text>
+                        </View>
+                    </Pressable>
+                }
+            />
+            <Text style={styles.label}>Patient Age</Text>
+            <WheelPicker
+                data={ageArray}
+                value={selectedAge}
+                onValueChanged={({item: {value}}) => handleAgeSelect(value)}
             />
         </View>
    return langList;
