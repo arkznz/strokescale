@@ -16,10 +16,8 @@ export default function App() {
         screenOptions={{
           headerShown: false
         }}>
-        <Stack.Screen name="Info" component={PatientInfoScreen} />
-        <Stack.Screen name="Language" component={PatientLanguageScreen} />
-        <Stack.Screen name="Details" component={PatientDetailsScreen} />
         <Stack.Screen name="Questions" component={PatientQuestionsScreen} />
+        <Stack.Screen name="Info" component={PatientInfoScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

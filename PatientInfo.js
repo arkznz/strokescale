@@ -57,13 +57,6 @@ export default function PatientInfoScreen(props) {
             setShowGenders(false);
             setShowPareticSide(false);
         }
-        // props.navigation.navigate("Details",
-        // {
-        //     langCode: langCode,
-        //     langName: langName,
-        //     langFlag: langFlag,
-        //     langDict: langDict
-        // });
     };
 
     const handleGenderSelect = (gender) => {

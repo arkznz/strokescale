@@ -1,11 +1,10 @@
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, Pressable, Image, FlatList, Modal } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import {Picker} from '@react-native-picker/picker';
-//import { BottomSheet } from 'react-native-gesture-handler';
+// import { BottomSheet } from 'react-native-gesture-handler';
+import { Drawer } from 'react-native-drawer-layout';
 
-
-const Card = ({ title, content }) => {
+const Card = ({ title, content }) => {w
 return (
     <View style={styles.card}>
         <Text style={styles.cardTitle}>{title}</Text>
@@ -23,8 +22,12 @@ const Circle = ({ score }) => {
     );
   };
 
-export default function PatientQuestionsScreen({route, navigation}) {
-    const {gender, age, pareticHand, langCode, langName, langFlag, langDict} = route.params;
+export default function PatientQuestionsScreen(props) {
+    //const {gender, age, pareticHand, langCode, langName, langFlag, langDict} = route.params;
+    const pareticHand = "Left";
+    const langCode = "es";
+    const langDict = require('./assets/translations/mx.json');
+    // const [patientInfoOpen, setPatientInfoOpen] = React.useState(false);
     const getTranslatFromQuestion = (questionDict) => {
         opt = questionDict.opt;
         if (opt == null) {
@@ -57,42 +60,45 @@ export default function PatientQuestionsScreen({route, navigation}) {
         }
     });
     const [selectedValue, setSelectedValue] = useState(1);
-    const [isBottomSheetOpen, setIsBottomSheetOpen] = useState(false);
-    const toggleBottomSheet = () => {
-        setIsBottomSheetOpen(true);
-      };
+    // const [isBottomSheetOpen, setIsBottomSheetOpen] = useState(false);
+    // const toggleBottomSheet = () => {
+    //     setIsBottomSheetOpen(true);
+    //   };
     const patientQuestions =
         <View style={styles.container}>
             <Text style={styles.title}>Patient Questions</Text>
-            <FlatList
+            {/* <Drawer
+                open={patientInfoOpen}
+                onOpen={() => setPatientInfoOpen(true)}
+                onClose={() => setPatientInfoOpen(false)}
+                renderDrawerContent={() => {
+                    return <Text>Drawer content</Text>;
+                }}
+                >
+                <Button
+                    onPress={() => setPatientInfoOpen((prevOpen) => !prevOpen)}
+                    title={`${patientInfoOpen ? 'Close' : 'Open'} drawer`}
+                />
+            </Drawer> */}
+            {/* <FlatList
                 data={langquestionsArray}
                 renderItem={({item, index}) => (
-                <Card
-                    left={Circle({score: ""})}
-                    key={item.questionCode}
-                    title={item.questionCode}
-                    content={item.questions.map((q, i) =>
-                        <Text key = {`translat_${item.questionCode}_${i}`} >{getTranslatFromQuestion(q)}</Text>
-                    )}
-                >
-                <Pressable key={`score_button_${item.questionCode}`} style={styles.score} onPress={() => toggleBottomSheet()}>
-                    <Text key={`score_value_${item.questionCode}`}> Click Me!</Text>
-                </Pressable>
-                </Card>
+                // <Card
+                //     left={Circle({score: ""})}
+                //     key={item.questionCode}
+                //     title={item.questionCode}
+                //     content={item.questions.map((q, i) =>
+                //         <Text key = {`translat_${item.questionCode}_${i}`} >{getTranslatFromQuestion(q)}</Text>
+                //     )}
+                // >
+                // <Pressable key={`score_button_${item.questionCode}`} style={styles.score} onPress={() => toggleBottomSheet()}>
+                //     <Text key={`score_value_${item.questionCode}`}> Click Me!</Text>
+                // </Pressable>
+                // </Card>
                 )}
                 numColumns={2}
-            />
+            /> */}
         </View>
-    /* <Modal visible={isBottomSheetOpen} animationType="slide">
-                    <BottomSheet>
-                        <Picker selectedValue={selectedValue} onValueChange={(itemValue) => setSelectedValue(itemValue)}>
-                            <Picker.Item label="1" value={1} />
-                            <Picker.Item label="2" value={2} />
-                            <Picker.Item label="3" value={3} />
-                            <Picker.Item label="4" value={4} />
-                        </Picker>
-                    </BottomSheet>
-                </Modal> */
 
     return patientQuestions;
 };
